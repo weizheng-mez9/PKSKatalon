@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save  Continue in Update Add Employee Resigned Date Page</name>
+   <tag></tag>
+   <elementGuidId>24e435a5-d8c9-4a11-ac0c-3007949b5a3f</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/registration/update/form-1a-cessation-as-employer-discontinue-business-?p_auth=15ME33D4&amp;p_p_id=searchforemployer_WAR_registrationportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_searchforemployer_WAR_registrationportlet_discontinueBusinessStartDate=2018-09-01&amp;_searchforemployer_WAR_registrationportlet_javax.portlet.action=exeAction&amp;_searchforemployer_WAR_registrationportlet_regActionKey=503&amp;_searchforemployer_WAR_registrationportlet_cmd=updateAddResignedDateSaveNContinue&amp;_searchforemployer_WAR_registrationportlet_regSectionKey=208&amp;_searchforemployer_WAR_registrationportlet_browserIdKey=1535953392971&amp;_searchforemployer_WAR_registrationportlet_temprarayClosuredateForm=01-09-2018&amp;_searchforemployer_WAR_registrationportlet_jspPage=%2Fapps%2Freg%2Fupdate_employee_resigned_date%2Fupdate_employee_resigned_date_form.jsp&amp;_searchforemployer_WAR_registrationportlet_regViewKey=506</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>targets</name>
+      <type>Main</type>
+      <value>baseMsgDivId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formid</name>
+      <type>Main</type>
+      <value>_searchforemployer_WAR_registrationportlet_updateEmployeeResignedDateFormId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg blueBtn col-md-2 pull-right browserIdBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_patched_v3_11_0_1_1535954006645_402</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SAVE &amp; CONTINUE	
+							</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_patched_v3_11_0_1_1535954006645_402&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1 eligible SIP
+1 not eligible SIP
+
+OTC</description>
+   <name>Third Screen - Upload Supporting Doc - Preview</name>
+   <tag>Critical Path</tag>
+   <comment></comment>
+   <testCaseGuid>188f34da-95e1-46b6-810b-3732baed2d84</testCaseGuid>
+</TestCaseEntity>

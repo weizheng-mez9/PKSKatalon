@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Special Cases routed to RO</description>
+   <name>Case OTC to RO - RO Submit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dafd791a-b5f9-4313-8fbe-abe83074562c</testCaseGuid>
+</TestCaseEntity>

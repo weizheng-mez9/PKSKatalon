@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save  Continue in Employment Resign Page</name>
+   <tag></tag>
+   <elementGuidId>5f027f31-7ac1-46b9-a209-99e36ec846b9</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>disBizResignedDtSubmit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>targets</name>
+      <type>Main</type>
+      <value>baseMsgDivId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formid</name>
+      <type>Main</type>
+      <value>_searchforemployersip_WAR_registrationportlet_updateEmployeeResignedDateFormId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/registration/eis-update/form-3-eis-cessation-as-employer?p_p_id=searchforemployersip_WAR_registrationportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=validateDiscontinueBizTempClosureFromDt&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_searchforemployersip_WAR_registrationportlet_employerId=24432&amp;_searchforemployersip_WAR_registrationportlet_browserIdKey=1536029169437&amp;_searchforemployersip_WAR_registrationportlet_browserIdKey=1536029169437&amp;_searchforemployersip_WAR_registrationportlet_refCaseNo=ERN092018C200002119&amp;_searchforemployersip_WAR_registrationportlet_jspPage=%2Fapps%2Freg%2Fdiscontinue_business_sip%2Fupdate_employee_resigned_date_sip_form.jsp&amp;_searchforemployersip_WAR_registrationportlet_regViewKey=90</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false;</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg blueBtn col-md-2 pull-right browserIdBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SAVE &amp; CONTINUE	
+				</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;disBizResignedDtSubmit&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

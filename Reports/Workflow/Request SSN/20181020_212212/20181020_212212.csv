@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Request SSN,Chrome 69.0.3497.100,,2018-10-21 04:18:39,2018-10-21 04:39:38,20m - 58.368s,ERROR
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/OTC - RIO - RO (Approve),Chrome 69.0.3497.100,,2018-10-21 04:18:40,2018-10-21 04:21:11,2m - 30.946s,ERROR
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:18:41,2018-10-21 04:20:14,1m - 33.024s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:20:14,2018-10-21 04:21:11,57.318s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/OTC - RIO - RO (Query),Chrome 69.0.3497.100,,2018-10-21 04:21:11,2018-10-21 04:24:13,3m - 1.991s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:21:11,2018-10-21 04:22:41,1m - 29.672s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:22:41,2018-10-21 04:24:13,1m - 32.151s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/OTC - RIO - RO (Under enforcement),Chrome 69.0.3497.100,,2018-10-21 04:24:13,2018-10-21 04:27:14,3m - 1.509s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:24:13,2018-10-21 04:25:43,1m - 29.417s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:25:43,2018-10-21 04:27:14,1m - 31.924s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/PKRBO - RIO - RO (Approve),Chrome 69.0.3497.100,,2018-10-21 04:27:14,2018-10-21 04:32:18,5m - 3.710s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:27:15,2018-10-21 04:28:50,1m - 35.204s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:28:50,2018-10-21 04:32:18,3m - 28.357s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/PKRBO - RIO - RO (Query),Chrome 69.0.3497.100,,2018-10-21 04:32:18,2018-10-21 04:35:25,3m - 6.402s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:32:18,2018-10-21 04:33:53,1m - 34.506s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:33:53,2018-10-21 04:35:25,1m - 31.717s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/PKRBO - RIO - RO (Under enforcement),Chrome 69.0.3497.100,,2018-10-21 04:35:25,2018-10-21 04:39:37,4m - 12.458s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:35:25,2018-10-21 04:36:59,1m - 34.740s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 04:36:59,2018-10-21 04:39:37,2m - 37.549s,FAILED

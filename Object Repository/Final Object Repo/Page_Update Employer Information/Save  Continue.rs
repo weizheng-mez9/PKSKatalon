@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save  Continue</name>
+   <tag></tag>
+   <elementGuidId>739bf8d0-2c27-4488-bd04-7c222154d8b2</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>updateEmployerSubmitBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formid</name>
+      <type>Main</type>
+      <value>_searchforemployer_WAR_registrationportlet_fm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/registration/update/update-employer-information?p_auth=h7RJkJPB&amp;p_p_id=searchforemployer_WAR_registrationportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_searchforemployer_WAR_registrationportlet_employerId=10000152&amp;_searchforemployer_WAR_registrationportlet_javax.portlet.action=exeAction&amp;_searchforemployer_WAR_registrationportlet_regActionKey=1&amp;_searchforemployer_WAR_registrationportlet_cmd=updateEmployerInfoId&amp;_searchforemployer_WAR_registrationportlet_browserIdKey=1534990568405&amp;_searchforemployer_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fupdate_employer_info%2Fupdate_employer_info_form.jsp&amp;_searchforemployer_WAR_registrationportlet_regViewKey=21&amp;_searchforemployer_WAR_registrationportlet_regSectionKey=204&amp;_searchforemployer_WAR_registrationportlet_employerIdKey=10000152</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>targets</name>
+      <type>Main</type>
+      <value>baseMsgDivId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg blueBtn col-md-2 pull-right browserIdBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SAVE &amp; CONTINUE	
+					</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateEmployerSubmitBtn&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

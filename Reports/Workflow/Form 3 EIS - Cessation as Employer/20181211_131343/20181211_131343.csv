@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Form 3 EIS - Cessation as Employer,Chrome 70.0.3538.110,,2018-12-12 13:02:40,2018-12-12 13:12:15,9m - 34.948s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Query),Chrome 70.0.3538.110,,2018-12-12 13:02:40,2018-12-12 13:12:13,9m - 32.292s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-12-12 13:02:41,2018-12-12 13:03:45,1m - 3.760s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-12 13:03:45,2018-12-12 13:12:13,8m - 28.196s,FAILED

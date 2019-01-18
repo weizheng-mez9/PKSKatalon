@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Form 1A - Cessation as Employer,Firefox 63.0,This test suite consisted all automated workflow,2018-11-09 12:11:53,2018-11-09 13:28:22,1h - 16m - 29.207s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Approve),Firefox 63.0,,2018-11-09 12:11:54,2018-11-09 12:24:47,12m - 53.434s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 12:11:55,2018-11-09 12:22:26,10m - 31.653s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 12:22:26,2018-11-09 12:24:47,2m - 20.976s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Query),Firefox 63.0,,2018-11-09 12:24:47,2018-11-09 12:37:04,12m - 16.197s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 12:24:48,2018-11-09 12:37:04,12m - 16.011s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Reject),Firefox 63.0,,2018-11-09 12:37:04,2018-11-09 12:51:37,14m - 33.313s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 12:37:04,2018-11-09 12:47:27,10m - 23.021s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 12:47:27,2018-11-09 12:51:37,4m - 10.092s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Under enforcement),Firefox 63.0,,2018-11-09 12:51:37,2018-11-09 12:55:24,3m - 46.955s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 12:51:37,2018-11-09 12:53:12,1m - 35.233s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 12:53:12,2018-11-09 12:55:24,2m - 11.563s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Approve),Firefox 63.0,,2018-11-09 12:55:24,2018-11-09 12:58:55,3m - 31.562s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 12:55:24,2018-11-09 12:56:57,1m - 33.280s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 12:56:57,2018-11-09 12:58:55,1m - 58.035s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Query),Firefox 63.0,,2018-11-09 12:58:55,2018-11-09 13:05:12,6m - 16.787s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 12:58:56,2018-11-09 13:00:30,1m - 34.757s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 13:00:30,2018-11-09 13:05:12,4m - 41.853s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Reject),Firefox 63.0,,2018-11-09 13:05:12,2018-11-09 13:09:21,4m - 9.081s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 13:05:12,2018-11-09 13:09:21,4m - 8.922s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Under enforcement),Firefox 63.0,,2018-11-09 13:09:21,2018-11-09 13:13:30,4m - 8.512s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 13:09:21,2018-11-09 13:13:30,4m - 8.348s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Approve),Firefox 63.0,,2018-11-09 13:13:30,2018-11-09 13:17:32,4m - 1.922s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 13:13:30,2018-11-09 13:14:57,1m - 27.281s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 13:14:57,2018-11-09 13:17:32,2m - 34.433s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Query),Firefox 63.0,,2018-11-09 13:17:32,2018-11-09 13:20:54,3m - 22.712s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 13:17:32,2018-11-09 13:18:56,1m - 24.536s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 13:18:56,2018-11-09 13:20:54,1m - 58.011s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Reject),Firefox 63.0,,2018-11-09 13:20:54,2018-11-09 13:24:46,3m - 51.175s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 13:20:55,2018-11-09 13:22:26,1m - 30.906s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 13:22:26,2018-11-09 13:24:46,2m - 20.087s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Under enforcement),Firefox 63.0,,2018-11-09 13:24:46,2018-11-09 13:28:21,3m - 35.711s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 13:24:46,2018-11-09 13:26:20,1m - 33.760s,PASSED
+callTestCase,Firefox 63.0,,2018-11-09 13:26:20,2018-11-09 13:28:21,2m - 1.753s,FAILED

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DatePicker Pop Up</name>
+   <tag></tag>
+   <elementGuidId>339196b4-e3c3-43e0-9321-89bcc8c9509a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(@class = 'form-control datepickerinput hasDatepicker' or @class = 'form-control datepickerinput hasDatepicker katalonHighlight' or @class = 'form-control datepickerinput hasDatepicker katalonDeHighlight') and @id = '_searchforemployer_WAR_registrationportlet_dto.dateOfBirth' and @name = '_searchforemployer_WAR_registrationportlet_dto.dateOfBirth']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control datepickerinput hasDatepicker</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_newreg_WAR_registrationportlet_dto.dateOfBirth</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>_newreg_WAR_registrationportlet_dto.dateOfBirth</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dateformat</name>
+      <type>Main</type>
+      <value>dd/mm/yy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>changemonth</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>changeyear</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>yearrange</name>
+      <type>Main</type>
+      <value>-200:+100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@class = 'form-control datepickerinput hasDatepicker' or @class = 'form-control datepickerinput hasDatepicker katalonHighlight' or @class = 'form-control datepickerinput hasDatepicker katalonDeHighlight') and @id = '_searchforemployer_WAR_registrationportlet_dto.dateOfBirth' and @name = '_searchforemployer_WAR_registrationportlet_dto.dateOfBirth']</value>
+   </webElementProperties>
+</WebElementEntity>

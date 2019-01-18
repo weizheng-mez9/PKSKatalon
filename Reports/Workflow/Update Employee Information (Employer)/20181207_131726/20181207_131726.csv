@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Update Employee Information (Employer),Chrome 70.0.3538.110,,2018-12-07 13:17:28,2018-12-07 13:32:01,14m - 33.033s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/Employer - UO (Query),Chrome 70.0.3538.110,,2018-12-07 13:17:28,2018-12-07 13:30:21,12m - 53.092s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-07 13:17:29,2018-12-07 13:26:34,9m - 5.463s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-07 13:26:34,2018-12-07 13:30:21,3m - 47.260s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/OTC - UO (Under enforcement),Chrome 70.0.3538.110,,2018-12-07 13:30:21,2018-12-07 13:32:01,1m - 39.500s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-12-07 13:30:22,2018-12-07 13:32:01,1m - 39.255s,FAILED

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save</name>
+   <tag></tag>
+   <elementGuidId>8241859f-2e8d-4949-a207-a5ac4afbb118</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'employeePopUpSubmitBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>employeePopUpSubmitBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formid</name>
+      <type>Main</type>
+      <value>_searchforemployer_WAR_registrationportlet_popUpForm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/registration/update/update-employee-information-employer-?p_auth=8OssD3Oa&amp;p_p_id=searchforemployer_WAR_registrationportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_searchforemployer_WAR_registrationportlet_redirect=https%3A%2F%2Fassist2-uat.perkeso.gov.my%2Fweb%2Fregistration%2Fupdate%2Fupdate-employee-information-employer-%3Fp_p_id%3Dsearchforemployer_WAR_registrationportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_searchforemployer_WAR_registrationportlet_employerIdKey%3D10000152%26_searchforemployer_WAR_registrationportlet_mvcPath%3D%2Fapps%2Freg%2Fupdate_employee_info%2Fupdate_employee_info_form.jsp%26_searchforemployer_WAR_registrationportlet_browserIdKey%3D1535007386514%26_searchforemployer_WAR_registrationportlet_regSectionKey%3D203%26_searchforemployer_WAR_registrationportlet_regViewKey%3D100&amp;_searchforemployer_WAR_registrationportlet_identificationInfoIdKey=30000162&amp;_searchforemployer_WAR_registrationportlet_employerId=10000152&amp;_searchforemployer_WAR_registrationportlet_javax.portlet.action=exeAction&amp;_searchforemployer_WAR_registrationportlet_regActionKey=200&amp;_searchforemployer_WAR_registrationportlet_employerIdKey=10000152&amp;_searchforemployer_WAR_registrationportlet_browserIdKey=1535007386514&amp;_searchforemployer_WAR_registrationportlet_cmd=updateEmployeeInfoSaveId&amp;_searchforemployer_WAR_registrationportlet_popUpAction=update&amp;_searchforemployer_WAR_registrationportlet_employmentInfoIdKey=100000190&amp;_searchforemployer_WAR_registrationportlet_employeeIdKey=30000160</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>targets</name>
+      <type>Main</type>
+      <value>baseMsgDivId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg blueBtn col-md-2 pull-right browserIdBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SAVE
+								</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;employeePopUpSubmitBtn&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

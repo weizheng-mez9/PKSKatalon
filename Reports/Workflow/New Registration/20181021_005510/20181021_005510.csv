@@ -1,0 +1,73 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Registration,Chrome 69.0.3497.100,,2018-10-21 07:24:20,2018-10-21 08:08:50,44m - 29.957s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Case OTC to RO - Query - Submit,Chrome 69.0.3497.100,Special Cases routed to RO,2018-10-21 07:24:21,2018-10-21 07:30:52,6m - 31.647s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:24:21,2018-10-21 07:25:06,45.027s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:25:06,2018-10-21 07:25:41,34.815s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:25:41,2018-10-21 07:28:49,3m - 7.475s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:28:49,2018-10-21 07:29:23,34.559s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:29:23,2018-10-21 07:29:24,1.109s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:29:24,2018-10-21 07:30:52,1m - 27.937s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Case OTC to RO - RO Submit,Chrome 69.0.3497.100,Special Cases routed to RO,2018-10-21 07:30:52,2018-10-21 07:32:11,1m - 18.855s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:30:53,2018-10-21 07:32:11,1m - 18.672s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Case OTC to RO - RO Under Enforcement,Chrome 69.0.3497.100,,2018-10-21 07:32:11,2018-10-21 07:33:31,1m - 19.325s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:32:12,2018-10-21 07:33:31,1m - 19.032s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Case PKR BO to RO - Query - Submit,Chrome 69.0.3497.100,Special Cases routed to RO,2018-10-21 07:33:31,2018-10-21 07:34:53,1m - 22.181s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:33:31,2018-10-21 07:34:53,1m - 21.877s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Case PKR BO to RO - RO Submit,Chrome 69.0.3497.100,Special Cases routed to RO,2018-10-21 07:34:53,2018-10-21 07:36:14,1m - 21.048s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:34:53,2018-10-21 07:36:14,1m - 20.823s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Case PKR BO to RO - RO Under Enforcement,Chrome 69.0.3497.100,,2018-10-21 07:36:14,2018-10-21 07:37:35,1m - 21.298s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:36:14,2018-10-21 07:37:35,1m - 21.039s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Employer to RO - Query - Submit,Chrome 69.0.3497.100,Special Cases routed to RO,2018-10-21 07:37:35,2018-10-21 07:46:42,9m - 6.547s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:37:35,2018-10-21 07:40:53,3m - 17.580s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:40:53,2018-10-21 07:41:27,34.052s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:41:27,2018-10-21 07:44:34,3m - 7.005s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 07:44:34,2018-10-21 07:44:39,4.875s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-21 07:44:39,2018-10-21 07:44:39,0.158s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-21 07:44:39,2018-10-21 07:44:39,0.143s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 07:44:39,2018-10-21 07:44:39,0.200s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 07:44:39,2018-10-21 07:44:40,0.171s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:44:40,2018-10-21 07:45:14,34.476s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:45:14,2018-10-21 07:45:15,1.012s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:45:15,2018-10-21 07:46:42,1m - 26.543s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Employer to RO - RO Submit,Chrome 69.0.3497.100,,2018-10-21 07:46:42,2018-10-21 07:55:48,9m - 6.495s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:46:42,2018-10-21 07:49:58,3m - 15.811s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:49:58,2018-10-21 07:50:31,33.679s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:50:31,2018-10-21 07:53:38,3m - 6.458s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 07:53:38,2018-10-21 07:53:42,4.680s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-21 07:53:42,2018-10-21 07:53:43,0.145s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-21 07:53:43,2018-10-21 07:53:43,0.150s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 07:53:43,2018-10-21 07:53:43,0.215s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 07:53:43,2018-10-21 07:53:43,0.164s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:53:43,2018-10-21 07:54:18,34.328s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:54:18,2018-10-21 07:54:18,0.922s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:54:18,2018-10-21 07:55:48,1m - 29.756s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/Employer to RO - RO Under Enforcement,Chrome 69.0.3497.100,,2018-10-21 07:55:48,2018-10-21 08:04:52,9m - 4.232s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:55:48,2018-10-21 07:59:05,3m - 16.513s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:59:05,2018-10-21 07:59:39,33.661s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 07:59:39,2018-10-21 08:02:45,3m - 6.082s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 08:02:45,2018-10-21 08:02:50,4.927s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-21 08:02:50,2018-10-21 08:02:50,0.143s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-21 08:02:50,2018-10-21 08:02:50,0.150s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 08:02:50,2018-10-21 08:02:50,0.205s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-21 08:02:50,2018-10-21 08:02:50,0.170s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 08:02:50,2018-10-21 08:03:25,34.308s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 08:03:25,2018-10-21 08:03:26,0.967s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 08:03:26,2018-10-21 08:04:52,1m - 26.812s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/OTC - PKR BO - RO Query (Routed 2 Time),Chrome 69.0.3497.100,,2018-10-21 08:04:52,2018-10-21 08:06:11,1m - 19.054s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 08:04:53,2018-10-21 08:06:11,1m - 18.791s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/OTC - PKR BO - RO Submit(Routed 2 Time),Chrome 69.0.3497.100,,2018-10-21 08:06:11,2018-10-21 08:07:31,1m - 19.142s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 08:06:12,2018-10-21 08:07:31,1m - 18.783s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/New Registration/OTC - PKR BO - RO Under Enforcement(Routed 2 Time),Chrome 69.0.3497.100,,2018-10-21 08:07:31,2018-10-21 08:08:50,1m - 18.937s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 08:07:31,2018-10-21 08:08:50,1m - 18.666s,FAILED

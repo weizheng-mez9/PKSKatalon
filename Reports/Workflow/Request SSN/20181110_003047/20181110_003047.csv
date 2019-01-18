@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Request SSN,Firefox 63.0,,2018-11-10 00:30:49,2018-11-10 01:06:55,36m - 5.561s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/OTC - RIO - RO (Approve),Firefox 63.0,This Uses Employer Code,2018-11-10 00:30:50,2018-11-10 00:34:33,3m - 43.241s,FAILED
+callTestCase,Firefox 63.0,,2018-11-10 00:30:51,2018-11-10 00:32:33,1m - 42.750s,PASSED
+callTestCase,Firefox 63.0,,2018-11-10 00:32:33,2018-11-10 00:34:33,1m - 59.899s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/OTC - RIO - RO (Query),Firefox 63.0,This do not uses Employer Code,2018-11-10 00:34:33,2018-11-10 00:42:07,7m - 33.391s,FAILED
+callTestCase,Firefox 63.0,,2018-11-10 00:34:33,2018-11-10 00:36:24,1m - 50.903s,PASSED
+callTestCase,Firefox 63.0,,2018-11-10 00:36:24,2018-11-10 00:42:07,5m - 42.299s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/OTC - RIO - RO (Under enforcement),Firefox 63.0,,2018-11-10 00:42:07,2018-11-10 00:48:20,6m - 13.128s,PASSED
+callTestCase,Firefox 63.0,,2018-11-10 00:42:07,2018-11-10 00:43:55,1m - 48.011s,PASSED
+callTestCase,Firefox 63.0,,2018-11-10 00:43:55,2018-11-10 00:48:20,4m - 24.941s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/PKRBO - RIO - RO (Approve),Firefox 63.0,,2018-11-10 00:48:20,2018-11-10 00:52:57,4m - 37.115s,ERROR
+callTestCase,Firefox 63.0,,2018-11-10 00:48:20,2018-11-10 00:50:22,2m - 2.168s,PASSED
+callTestCase,Firefox 63.0,,2018-11-10 00:50:22,2018-11-10 00:52:57,2m - 34.776s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/PKRBO - RIO - RO (Query),Firefox 63.0,,2018-11-10 00:52:57,2018-11-10 01:00:33,7m - 36.500s,FAILED
+callTestCase,Firefox 63.0,,2018-11-10 00:52:57,2018-11-10 00:54:53,1m - 56.309s,PASSED
+callTestCase,Firefox 63.0,,2018-11-10 00:54:53,2018-11-10 01:00:33,5m - 40.019s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Request SSN/PKRBO - RIO - RO (Under enforcement),Firefox 63.0,,2018-11-10 01:00:33,2018-11-10 01:06:54,6m - 20.636s,PASSED
+callTestCase,Firefox 63.0,,2018-11-10 01:00:34,2018-11-10 01:02:29,1m - 55.384s,PASSED
+callTestCase,Firefox 63.0,,2018-11-10 01:02:29,2018-11-10 01:06:54,4m - 25.052s,PASSED

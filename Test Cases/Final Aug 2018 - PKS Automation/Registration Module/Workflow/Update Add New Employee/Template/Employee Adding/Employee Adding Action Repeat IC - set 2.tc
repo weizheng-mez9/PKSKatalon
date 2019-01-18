@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add 2 Eligible 2 Not Eligible</description>
+   <name>Employee Adding Action Repeat IC - set 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4a6e7a5-b808-48c2-b4e2-ac009ab6198f</testCaseGuid>
+</TestCaseEntity>

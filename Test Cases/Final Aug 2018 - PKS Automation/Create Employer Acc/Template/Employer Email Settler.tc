@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>(Store the Email of Employer Login)</description>
+   <name>Employer Email Settler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff75b253-ed0b-4626-a870-ed5f50f29bc4</testCaseGuid>
+</TestCaseEntity>

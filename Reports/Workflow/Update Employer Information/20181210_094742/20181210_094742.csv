@@ -1,0 +1,63 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Update Employer Information,Chrome 70.0.3538.110,,2018-12-10 09:47:45,2018-12-10 10:33:25,45m - 39.927s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/Employer - UO (Approve),Chrome 70.0.3538.110,,2018-12-10 09:47:46,2018-12-10 09:51:05,3m - 19.077s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 09:47:46,2018-12-10 09:48:52,1m - 6.130s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 09:48:52,2018-12-10 09:51:05,2m - 12.493s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/Employer - UO (Query),Chrome 70.0.3538.110,,2018-12-10 09:51:05,2018-12-10 09:55:52,4m - 46.837s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 09:51:05,2018-12-10 09:52:06,1m - 1.447s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 09:52:06,2018-12-10 09:55:52,3m - 45.165s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/Employer - UO (Reject),Chrome 70.0.3538.110,,2018-12-10 09:55:52,2018-12-10 09:58:47,2m - 55.360s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 09:55:52,2018-12-10 09:56:55,1m - 3.272s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 09:56:55,2018-12-10 09:58:47,1m - 51.791s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/Employer - UO (Under enforcement),Chrome 70.0.3538.110,,2018-12-10 09:58:47,2018-12-10 10:01:43,2m - 56.386s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 09:58:47,2018-12-10 09:59:51,1m - 3.391s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 09:59:51,2018-12-10 10:01:43,1m - 52.751s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/OTC - UO (Approve),Chrome 70.0.3538.110,,2018-12-10 10:01:43,2018-12-10 10:04:49,3m - 5.523s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:01:44,2018-12-10 10:02:40,56.000s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:02:40,2018-12-10 10:04:49,2m - 9.264s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/OTC - UO (Query),Chrome 70.0.3538.110,,2018-12-10 10:04:49,2018-12-10 10:09:30,4m - 40.675s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:04:49,2018-12-10 10:05:43,53.738s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:05:43,2018-12-10 10:09:30,3m - 46.665s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/OTC - UO (Reject),Chrome 70.0.3538.110,,2018-12-10 10:09:30,2018-12-10 10:12:14,2m - 44.631s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:09:30,2018-12-10 10:10:23,52.825s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:10:23,2018-12-10 10:12:14,1m - 51.541s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/OTC - UO (Under enforcement),Chrome 70.0.3538.110,,2018-12-10 10:12:14,2018-12-10 10:15:01,2m - 46.409s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:12:14,2018-12-10 10:13:08,53.374s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:13:08,2018-12-10 10:15:01,1m - 52.777s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PAU - UO (Approve),Chrome 70.0.3538.110,,2018-12-10 10:15:01,2018-12-10 10:18:05,3m - 4.685s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:15:01,2018-12-10 10:15:54,53.248s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:15:54,2018-12-10 10:18:05,2m - 11.169s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PAU - UO (Query),Chrome 70.0.3538.110,,2018-12-10 10:18:05,2018-12-10 10:18:49,43.346s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:18:06,2018-12-10 10:18:49,43.052s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PAU - UO (Reject),Chrome 70.0.3538.110,,2018-12-10 10:18:49,2018-12-10 10:21:30,2m - 41.729s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:18:49,2018-12-10 10:19:41,52.514s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:19:41,2018-12-10 10:21:30,1m - 48.980s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PAU - UO (Under enforcement),Chrome 70.0.3538.110,,2018-12-10 10:21:30,2018-12-10 10:22:13,43.043s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:21:31,2018-12-10 10:22:13,42.787s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PKRBO - UO (Approve),Chrome 70.0.3538.110,,2018-12-10 10:22:13,2018-12-10 10:25:16,3m - 2.198s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:22:14,2018-12-10 10:23:07,53.006s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:23:07,2018-12-10 10:25:16,2m - 8.972s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PKRBO - UO (Query),Chrome 70.0.3538.110,,2018-12-10 10:25:16,2018-12-10 10:29:56,4m - 40.140s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:25:16,2018-12-10 10:26:10,54.035s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:26:10,2018-12-10 10:29:56,3m - 45.803s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PKRBO - UO (Reject),Chrome 70.0.3538.110,,2018-12-10 10:29:56,2018-12-10 10:30:39,43.041s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:29:56,2018-12-10 10:30:39,42.743s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PKRBO - UO (Under enforcement),Chrome 70.0.3538.110,,2018-12-10 10:30:39,2018-12-10 10:33:25,2m - 46.167s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:30:39,2018-12-10 10:31:32,52.986s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-12-10 10:31:32,2018-12-10 10:33:25,1m - 52.960s,PASSED

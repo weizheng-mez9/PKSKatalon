@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Update Employee Information (Employee),Chrome 71.0.3578.98,,2019-01-03 21:46:32,2019-01-03 22:26:59,40m - 27.308s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Approve),Chrome 71.0.3578.98,,2019-01-03 21:46:32,2019-01-03 21:49:33,3m - 0.686s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 21:46:33,2019-01-03 21:47:34,1m - 1.912s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 21:47:34,2019-01-03 21:49:33,1m - 58.298s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Query),Chrome 71.0.3578.98,,2019-01-03 21:49:33,2019-01-03 21:54:10,4m - 36.965s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 21:49:33,2019-01-03 21:50:32,59.016s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 21:50:32,2019-01-03 21:54:10,3m - 37.633s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Reject),Chrome 71.0.3578.98,,2019-01-03 21:54:10,2019-01-03 21:57:13,3m - 3.163s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 21:54:10,2019-01-03 21:55:09,59.077s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 21:55:09,2019-01-03 21:57:13,2m - 3.750s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Under enforcement),Chrome 71.0.3578.98,,2019-01-03 21:57:13,2019-01-03 22:00:06,2m - 53.236s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 21:57:13,2019-01-03 21:58:12,58.832s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 21:58:12,2019-01-03 22:00:06,1m - 54.146s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Approve),Chrome 71.0.3578.98,,2019-01-03 22:00:06,2019-01-03 22:03:01,2m - 54.743s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:00:06,2019-01-03 22:01:06,59.623s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:01:06,2019-01-03 22:03:01,1m - 54.865s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Query),Chrome 71.0.3578.98,,2019-01-03 22:03:01,2019-01-03 22:07:36,4m - 34.877s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:03:01,2019-01-03 22:03:59,58.253s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:03:59,2019-01-03 22:07:36,3m - 36.334s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Reject),Chrome 71.0.3578.98,,2019-01-03 22:07:36,2019-01-03 22:10:39,3m - 3.366s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:07:36,2019-01-03 22:08:35,58.567s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:08:35,2019-01-03 22:10:39,2m - 4.533s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Under enforcement),Chrome 71.0.3578.98,,2019-01-03 22:10:39,2019-01-03 22:13:32,2m - 52.395s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:10:39,2019-01-03 22:11:37,57.848s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:11:37,2019-01-03 22:13:32,1m - 54.280s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Approve),Chrome 71.0.3578.98,,2019-01-03 22:13:32,2019-01-03 22:16:26,2m - 54.008s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:13:32,2019-01-03 22:14:31,58.893s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:14:31,2019-01-03 22:16:26,1m - 54.859s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Query),Chrome 71.0.3578.98,,2019-01-03 22:16:26,2019-01-03 22:21:03,4m - 37.448s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:16:26,2019-01-03 22:17:25,59.544s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:17:25,2019-01-03 22:21:03,3m - 37.644s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Reject),Chrome 71.0.3578.98,,2019-01-03 22:21:03,2019-01-03 22:24:06,3m - 2.660s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:21:03,2019-01-03 22:22:02,58.912s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:22:02,2019-01-03 22:24:06,2m - 3.451s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Under enforcement),Chrome 71.0.3578.98,,2019-01-03 22:24:06,2019-01-03 22:26:58,2m - 52.670s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:24:06,2019-01-03 22:25:05,58.741s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-03 22:25:05,2019-01-03 22:26:58,1m - 53.636s,PASSED

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check for case owner and retrieve value</description>
+   <name>Workflow Owner Finder</name>
+   <tag>workflow checker</tag>
+   <comment></comment>
+   <testCaseGuid>f43ed6e2-fced-49bb-81bf-776b70461918</testCaseGuid>
+</TestCaseEntity>

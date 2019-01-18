@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="648" tests="0" failures="1" errors="0">
+   <testsuite name="New Test Suite" tests="0" failures="1" errors="0" time="648" timestamp="2018-10-03 12:20:42" hostname="Wei Zheng - 10.212.128.103" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540521369.png, C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540552853.png, C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540569917.png, C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540571084.png, C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540573281.png, C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540574447.png, C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540576668.png, C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540748911.png, C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540872758.png"/>
+         <property name="hostName" value="Wei Zheng - 10.212.128.103"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="10.212.128.103"/>
+         <property name="sessionId" value="d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability" classname="Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability" status="FAILED">
+         <failure type="FAILED" message="(Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to set text '010903091927' of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element &lt;input id=&quot;_newreg_WAR_registrationportlet_dto.registrationNo&quot; class=&quot;form-control&quot; name=&quot;_newreg_WAR_registrationportlet_dto.registrationNo&quot; type=&quot;text&quot;> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:32)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:950)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:133)
+	at Script1534407542402.run(Script1534407542402.groovy:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:99)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:60)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:54)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:45)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:93)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325)
+	at groovy.lang.MetaClassImpl.invokeStaticMethod(MetaClassImpl.java:1469)
+	at org.codehaus.groovy.runtime.callsite.StaticMetaClassSite.call(StaticMetaClassSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at Script1536719457822.run(Script1536719457822.groovy:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1538540440246.run(TempTestSuite1538540440246.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)"/>
+         <system-out><![CDATA[2018-10-03 12:20:43 - [TEST_CASE][FAILED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to set text '010903091927' of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <input id="_newreg_WAR_registrationportlet_dto.registrationNo" class="form-control" name="_newreg_WAR_registrationportlet_dto.registrationNo" type="text"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:32)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:950)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:133)
+	at Script1534407542402.run(Script1534407542402.groovy:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:99)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:60)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:54)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:45)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:93)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325)
+	at groovy.lang.MetaClassImpl.invokeStaticMethod(MetaClassImpl.java:1469)
+	at org.codehaus.groovy.runtime.callsite.StaticMetaClassSite.call(StaticMetaClassSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at Script1536719457822.run(Script1536719457822.groovy:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1538540440246.run(TempTestSuite1538540440246.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)
+
+2018-10-03 12:20:44 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 1/Form 1 - Corporation - Limited Liability' successfully
+
+2018-10-03 12:20:44 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 1/Form 1 - Corporation - Limited Liability: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 1/Form 1 - Corporation - Limited Liability
+
+2018-10-03 12:20:44 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-03 12:20:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-03 12:20:51 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-10-03 12:20:55 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-10-03 12:20:55 - [TEST_STEP][PASSED] - setText: Text 'johorotc1@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-10-03 12:20:55 - [MESSAGE][PASSED] - Text 'johorotc1@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-10-03 12:20:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-10-03 12:20:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-10-03 12:20:56 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:20:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:20:57 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-10-03 12:20:57 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-10-03 12:20:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-10-03 12:21:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-10-03 12:21:01 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:02 - [TEST_STEP][PASSED] - Statement - Try: Delayed 2 second(s)
+
+2018-10-03 12:21:02 - [TEST_STEP][PASSED] - Statement - Checker = false: null
+
+2018-10-03 12:21:02 - [TEST_STEP][PASSED] - Statement - Checker = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementHasAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Landing Page/BM Detecting), "href", 20, OPTIONAL): Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-10-03 12:21:02 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-10-03 12:21:02 - [TEST_STEP][PASSED] - Statement - out.println(Checker): null
+
+2018-10-03 12:21:02 - [TEST_STEP][PASSED] - Statement - If (Checker == false): null
+
+2018-10-03 12:21:02 - [TEST_STEP][PASSED] - Statement - Else: null
+
+2018-10-03 12:21:02 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:21:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:21:04 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/web/registration/registration' successfully
+
+2018-10-03 12:21:06 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/web/registration/registration' successfully
+
+2018-10-03 12:21:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/AEC - No' is clicked on
+
+2018-10-03 12:21:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/AEC - No' is clicked on
+
+2018-10-03 12:21:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Business Entity' is clicked on
+
+2018-10-03 12:21:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Business Entity' is clicked on
+
+2018-10-03 12:21:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Businees Entity - Corporation' is clicked on
+
+2018-10-03 12:21:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Businees Entity - Corporation' is clicked on
+
+2018-10-03 12:21:07 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Business Entity' is clicked on
+
+2018-10-03 12:21:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Business Entity' is clicked on
+
+2018-10-03 12:21:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Business Entity - LLP' is clicked on
+
+2018-10-03 12:21:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Business Entity - LLP' is clicked on
+
+2018-10-03 12:21:10 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:11 - [TEST_STEP][PASSED] - setText: Text '123' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registration Number'
+
+2018-10-03 12:21:11 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registration Number'
+
+2018-10-03 12:21:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registred with SSM - Before Feb' is clicked on
+
+2018-10-03 12:21:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registred with SSM - Before Feb' is clicked on
+
+2018-10-03 12:21:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registered As a Branch - Yes' is clicked on
+
+2018-10-03 12:21:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registered As a Branch - Yes' is clicked on
+
+2018-10-03 12:21:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Acknowledgement' is clicked on
+
+2018-10-03 12:21:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Acknowledgement' is clicked on
+
+2018-10-03 12:21:12 - [TEST_STEP][PASSED] - setText: Text 'perkeso' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry name'
+
+2018-10-03 12:21:12 - [MESSAGE][PASSED] - Text 'perkeso' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry name'
+
+2018-10-03 12:21:12 - [TEST_STEP][PASSED] - setText: Text 'perkeso1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address1'
+
+2018-10-03 12:21:12 - [MESSAGE][PASSED] - Text 'perkeso1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address1'
+
+2018-10-03 12:21:12 - [TEST_STEP][PASSED] - setText: Text 'perkeso2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address2'
+
+2018-10-03 12:21:12 - [MESSAGE][PASSED] - Text 'perkeso2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address2'
+
+2018-10-03 12:21:12 - [TEST_STEP][PASSED] - setText: Text 'perkeso3' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address3'
+
+2018-10-03 12:21:13 - [MESSAGE][PASSED] - Text 'perkeso3' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address3'
+
+2018-10-03 12:21:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/State' is clicked on
+
+2018-10-03 12:21:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/State' is clicked on
+
+2018-10-03 12:21:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/State - Johor' is clicked on
+
+2018-10-03 12:21:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/State - Johor' is clicked on
+
+2018-10-03 12:21:14 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:15 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/City' is clicked on
+
+2018-10-03 12:21:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/City' is clicked on
+
+2018-10-03 12:21:15 - [TEST_STEP][PASSED] - setText: Text 'joh' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 810'
+
+2018-10-03 12:21:16 - [MESSAGE][PASSED] - Text 'joh' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 810'
+
+2018-10-03 12:21:16 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:17 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/City - Johor Bharu' is clicked on
+
+2018-10-03 12:21:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/City - Johor Bharu' is clicked on
+
+2018-10-03 12:21:17 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode' is clicked on
+
+2018-10-03 12:21:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode' is clicked on
+
+2018-10-03 12:21:19 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:20 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:20 - [TEST_STEP][PASSED] - setText: Text '810' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 810'
+
+2018-10-03 12:21:20 - [MESSAGE][PASSED] - Text '810' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 810'
+
+2018-10-03 12:21:20 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 81000' is clicked on
+
+2018-10-03 12:21:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 81000' is clicked on
+
+2018-10-03 12:21:22 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:23 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/P.O.BOX'
+
+2018-10-03 12:21:23 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/P.O.BOX'
+
+2018-10-03 12:21:23 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Locked Bag No'
+
+2018-10-03 12:21:23 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Locked Bag No'
+
+2018-10-03 12:21:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/SOCSO Office Location' is clicked on
+
+2018-10-03 12:21:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/SOCSO Office Location' is clicked on
+
+2018-10-03 12:21:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/SOCSO Office Location - Pejabat PERKESO Negeri Johor' is clicked on
+
+2018-10-03 12:21:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/SOCSO Office Location - Pejabat PERKESO Negeri Johor' is clicked on
+
+2018-10-03 12:21:24 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:25 - [TEST_STEP][PASSED] - check: Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusrty Address Same As Postal Address' is checked
+
+2018-10-03 12:21:26 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusrty Address Same As Postal Address' is checked
+
+2018-10-03 12:21:26 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-03 12:21:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-03 12:21:29 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusry Address Same As Postal Address False' is clicked on
+
+2018-10-03 12:21:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusry Address Same As Postal Address False' is clicked on
+
+2018-10-03 12:21:29 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:30 - [TEST_STEP][PASSED] - setText: Text 'perkeso1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address1'
+
+2018-10-03 12:21:30 - [MESSAGE][PASSED] - Text 'perkeso1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address1'
+
+2018-10-03 12:21:30 - [TEST_STEP][PASSED] - setText: Text 'perkeso2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address2'
+
+2018-10-03 12:21:30 - [MESSAGE][PASSED] - Text 'perkeso2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address2'
+
+2018-10-03 12:21:30 - [TEST_STEP][PASSED] - setText: Text 'perkeso3' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address3'
+
+2018-10-03 12:21:30 - [MESSAGE][PASSED] - Text 'perkeso3' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address3'
+
+2018-10-03 12:21:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry State' is clicked on
+
+2018-10-03 12:21:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry State' is clicked on
+
+2018-10-03 12:21:31 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:21:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:21:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry State - Johor' is clicked on
+
+2018-10-03 12:21:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry State - Johor' is clicked on
+
+2018-10-03 12:21:34 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:21:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:21:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Ciry' is clicked on
+
+2018-10-03 12:21:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Ciry' is clicked on
+
+2018-10-03 12:21:36 - [TEST_STEP][PASSED] - setText: Text 'joh' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Ciry - joh'
+
+2018-10-03 12:21:36 - [MESSAGE][PASSED] - Text 'joh' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Ciry - joh'
+
+2018-10-03 12:21:36 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:21:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:21:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industy State - Johor Bharu' is clicked on
+
+2018-10-03 12:21:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industy State - Johor Bharu' is clicked on
+
+2018-10-03 12:21:39 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:40 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusry PostCode' is clicked on
+
+2018-10-03 12:21:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusry PostCode' is clicked on
+
+2018-10-03 12:21:40 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:41 - [TEST_STEP][PASSED] - setText: Text '810' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Insutry Post Code - 810'
+
+2018-10-03 12:21:41 - [MESSAGE][PASSED] - Text '810' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Insutry Post Code - 810'
+
+2018-10-03 12:21:41 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Insutry Post Code - 81000' is clicked on
+
+2018-10-03 12:21:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Insutry Post Code - 81000' is clicked on
+
+2018-10-03 12:21:43 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:44 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:44 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry P.O.BOX'
+
+2018-10-03 12:21:44 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry P.O.BOX'
+
+2018-10-03 12:21:44 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Locked Bag No'
+
+2018-10-03 12:21:44 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Locked Bag No'
+
+2018-10-03 12:21:44 - [TEST_STEP][PASSED] - setText: Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Telephone No'
+
+2018-10-03 12:21:45 - [MESSAGE][PASSED] - Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Telephone No'
+
+2018-10-03 12:21:45 - [TEST_STEP][PASSED] - setText: Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Mobile No'
+
+2018-10-03 12:21:45 - [MESSAGE][PASSED] - Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Mobile No'
+
+2018-10-03 12:21:45 - [TEST_STEP][PASSED] - setText: Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Fax No'
+
+2018-10-03 12:21:45 - [MESSAGE][PASSED] - Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Fax No'
+
+2018-10-03 12:21:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Code' is clicked on
+
+2018-10-03 12:21:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Code' is clicked on
+
+2018-10-03 12:21:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indudustry Code - Crops and Animal' is clicked on
+
+2018-10-03 12:21:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indudustry Code - Crops and Animal' is clicked on
+
+2018-10-03 12:21:46 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:47 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Industry Code List' is clicked on
+
+2018-10-03 12:21:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Industry Code List' is clicked on
+
+2018-10-03 12:21:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Industry Code List - Growing of Maize' is clicked on
+
+2018-10-03 12:21:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Industry Code List - Growing of Maize' is clicked on
+
+2018-10-03 12:21:48 - [TEST_STEP][PASSED] - setText: Text 'perkeso123@gmail.com' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Email'
+
+2018-10-03 12:21:48 - [MESSAGE][PASSED] - Text 'perkeso123@gmail.com' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Email'
+
+2018-10-03 12:21:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Method of Contribution Payment' is clicked on
+
+2018-10-03 12:21:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Method of Contribution Payment' is clicked on
+
+2018-10-03 12:21:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Method of Contribution Payment - Portal' is clicked on
+
+2018-10-03 12:21:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Method of Contribution Payment - Portal' is clicked on
+
+2018-10-03 12:21:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Servide Type' is clicked on
+
+2018-10-03 12:21:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Servide Type' is clicked on
+
+2018-10-03 12:21:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Servide Type - Professional Bodies' is clicked on
+
+2018-10-03 12:21:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Servide Type - Professional Bodies' is clicked on
+
+2018-10-03 12:21:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Venue' is clicked on
+
+2018-10-03 12:21:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Venue' is clicked on
+
+2018-10-03 12:21:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Venue -  PPN JOHOR' is clicked on
+
+2018-10-03 12:21:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Venue -  PPN JOHOR' is clicked on
+
+2018-10-03 12:21:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Save  Continue' is clicked on
+
+2018-10-03 12:21:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Save  Continue' is clicked on
+
+2018-10-03 12:21:52 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 1/Form 1 - Corporation - Limited Liability' successfully
+
+2018-10-03 12:21:52 - [TEST_STEP][FAILED] - callTestCase: Unable to call Test Case with id 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible' (Root cause: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible' failed)
+
+2018-10-03 12:21:52 - [TEST_CASE][FAILED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to set text '010903091927' of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <input id="_newreg_WAR_registrationportlet_dto.registrationNo" class="form-control" name="_newreg_WAR_registrationportlet_dto.registrationNo" type="text"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:32)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:950)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:133)
+	at Script1534407542402.run(Script1534407542402.groovy:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:99)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:60)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:54)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:45)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:93)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325)
+	at groovy.lang.MetaClassImpl.invokeStaticMethod(MetaClassImpl.java:1469)
+	at org.codehaus.groovy.runtime.callsite.StaticMetaClassSite.call(StaticMetaClassSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at Script1536719457822.run(Script1536719457822.groovy:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1538540440246.run(TempTestSuite1538540440246.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)
+
+2018-10-03 12:21:53 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:21:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Date Updater' successfully
+
+2018-10-03 12:21:55 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Date Updater: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Date Updater
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - TodayDate = new java.util.Date(): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentDateNoFilter = new java.text.SimpleDateFormat(): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentDateNoFilter.applyPattern("dd"): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentDate = CurrentDateNoFilter.format(TodayDate): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentDate = java.lang.Integer.parseInt(CurrentDate): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentDate = CurrentDate: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentDay = java.lang.Integer.parseInt(CurrentDate): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - aDayBefore = CurrentDay + 1: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - DayBefore = aDayBefore.toString(): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - OneDayBefore = DayBefore: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentDateNoFilter.applyPattern("MM"): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - monthContainerMatcher = java.lang.Integer.parseInt(CurrentDateNoFilter.format(TodayDate)): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - monthContainerMatcher = monthContainerMatcher - 1: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentMonth = monthContainerMatcher.toString(): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentMonth = CurrentMonth: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentDateNoFilter.applyPattern("yyyy"): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentYear = CurrentDateNoFilter.format(TodayDate): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - CurrentYear = CurrentYear: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - intCurrentYear = java.lang.Integer.parseInt(CurrentDateNoFilter.format(TodayDate)): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - eighteenYrsAgo = intCurrentYear - 18: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - eighteenYrsBeforeThisYr = eighteenYrsAgo.toString(): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - EighteenYrsBefore = eighteenYrsBeforeThisYr: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - fiftysevenYrsAgo = intCurrentYear - 57: null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - fiftysevenYrsBeforeThisYr = fiftysevenYrsAgo.toString(): null
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - Statement - FiftysevenYrsBefore = fiftysevenYrsBeforeThisYr: null
+
+2018-10-03 12:21:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Date Updater' successfully
+
+2018-10-03 12:21:55 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:56 - [TEST_STEP][PASSED] - Statement - CaseReferenceNo = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/RefNo Acquiring)): Text of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/RefNo Acquiring' is: 'CRN10201800122146'
+
+2018-10-03 12:21:57 - [MESSAGE][PASSED] - Text of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/RefNo Acquiring' is: 'CRN10201800122146'
+
+2018-10-03 12:21:57 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 12:21:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 12:21:58 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:21:59 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:21:59 - [TEST_STEP][FAILED] - setText: Unable to set text '010903091927' of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <input id="_newreg_WAR_registrationportlet_dto.registrationNo" class="form-control" name="_newreg_WAR_registrationportlet_dto.registrationNo" type="text"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+
+2018-10-03 12:22:01 - [MESSAGE][FAILED] - Unable to set text '010903091927' of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <input id="_newreg_WAR_registrationportlet_dto.registrationNo" class="form-control" name="_newreg_WAR_registrationportlet_dto.registrationNo" type="text"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540521369.png]]
+
+2018-10-03 12:22:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 12:22:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 12:22:02 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:04 - [TEST_STEP][PASSED] - setText: Text 'Automate001 eligible 1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 12:22:04 - [MESSAGE][PASSED] - Text 'Automate001 eligible 1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 12:22:04 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 12:22:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 12:22:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 12:22:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 12:22:07 - [TEST_STEP][PASSED] - Statement - CurrentMonth = CurrentMonth: null
+
+2018-10-03 12:22:07 - [TEST_STEP][PASSED] - Statement - selectMonth = new com.kms.katalon.core.testobject.TestObject(): null
+
+2018-10-03 12:22:07 - [TEST_STEP][PASSED] - Statement - selectMonth.addProperty("xpath", EQUALS, "//body/div/div/div/select/option[@value='" + CurrentMonth + "']", true): null
+
+2018-10-03 12:22:07 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 12:22:07 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 12:22:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 12:22:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 12:22:08 - [TEST_STEP][PASSED] - Statement - Eyearsbf = EighteenYrsBefore: null
+
+2018-10-03 12:22:08 - [TEST_STEP][PASSED] - Statement - selectYear = new com.kms.katalon.core.testobject.TestObject(): null
+
+2018-10-03 12:22:08 - [TEST_STEP][PASSED] - Statement - selectYear.addProperty("xpath", EQUALS, "//div/div/div/select/option[@value='" + Eyearsbf + "']", true): null
+
+2018-10-03 12:22:08 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 12:22:08 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 12:22:08 - [TEST_STEP][PASSED] - Statement - UpdatedSelectDate = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date), "xpath", "equals", "//body/div/table/tbody/tr/td/a[text()="" + CurrentDate + ""]", true): Modify property of object successfully
+
+2018-10-03 12:22:08 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:22:08 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-03 12:22:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-03 12:22:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 12:22:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 12:22:11 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 12:22:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 12:22:14 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 12:22:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 12:22:17 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:22:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:22:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 12:22:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 12:22:18 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 12:22:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 12:22:20 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:22:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:22:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 12:22:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 12:22:22 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 12:22:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 12:22:24 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 12:22:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 12:22:26 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-10-03 12:22:32 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-10-03 12:22:32 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="addEmployeeBtn" class="popup-trigger btn btn-lg blueBtn col-md-2 pull-right browserIdBtn" href="https://assist2-uat.perkeso.gov.my/web/registration/registration?p_p_id=newreg_WAR_registrationportlet&p_p_lifecycle=0&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_newreg_WAR_registrationportlet_newRegTempEmployeeTableorderByType=asc&_newreg_WAR_registrationportlet_currentUrl=https%3A%2F%2Fassist2-uat.perkeso.gov.my%2Fweb%2Fregistration%2Fregistration%3Fp_p_id%3Dnewreg_WAR_registrationportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_newreg_WAR_registrationportlet_browserIdKey%3D1538540465192%26_newreg_WAR_registrationportlet_jspPage%3D%252Fapps%252Freg%252Fnew_reg%252Fnew_reg_form2.jsp%26_newreg_WAR_registrationportlet_refCaseNo%3DCRN10201800122146%26_newreg_WAR_registrationportlet_regViewKey%3D12&_newreg_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fnew_reg%2Femployee_info_popup.jsp&_newreg_WAR_registrationportlet_actionResourceKey=employeeRegistrationFormId&_newreg_WAR_registrationportlet_newRegTempEmployeeTable=1&_newreg_WAR_registrationportlet_popUpAction=add&_newreg_WAR_registrationportlet_deltanewRegTempEmployeeTable=10&_newreg_WAR_registrationportlet_browserIdKey=1538540465192"> is not clickable at point (1150.3749542236328,508.20001220703125) because another element <div id="" class="row-fluid "> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+
+2018-10-03 12:22:32 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="addEmployeeBtn" class="popup-trigger btn btn-lg blueBtn col-md-2 pull-right browserIdBtn" href="https://assist2-uat.perkeso.gov.my/web/registration/registration?p_p_id=newreg_WAR_registrationportlet&p_p_lifecycle=0&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_newreg_WAR_registrationportlet_newRegTempEmployeeTableorderByType=asc&_newreg_WAR_registrationportlet_currentUrl=https%3A%2F%2Fassist2-uat.perkeso.gov.my%2Fweb%2Fregistration%2Fregistration%3Fp_p_id%3Dnewreg_WAR_registrationportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_newreg_WAR_registrationportlet_browserIdKey%3D1538540465192%26_newreg_WAR_registrationportlet_jspPage%3D%252Fapps%252Freg%252Fnew_reg%252Fnew_reg_form2.jsp%26_newreg_WAR_registrationportlet_refCaseNo%3DCRN10201800122146%26_newreg_WAR_registrationportlet_regViewKey%3D12&_newreg_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fnew_reg%2Femployee_info_popup.jsp&_newreg_WAR_registrationportlet_actionResourceKey=employeeRegistrationFormId&_newreg_WAR_registrationportlet_newRegTempEmployeeTable=1&_newreg_WAR_registrationportlet_popUpAction=add&_newreg_WAR_registrationportlet_deltanewRegTempEmployeeTable=10&_newreg_WAR_registrationportlet_browserIdKey=1538540465192"> is not clickable at point (1150.3749542236328,508.20001220703125) because another element <div id="" class="row-fluid "> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540552853.png]]
+
+2018-10-03 12:22:32 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 12:22:36 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 12:22:36 - [TEST_STEP][PASSED] - setText: Text '620904059691' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 12:22:37 - [MESSAGE][PASSED] - Text '620904059691' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 12:22:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 12:22:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 12:22:37 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:39 - [TEST_STEP][PASSED] - setText: Text 'Automate001 eligible 2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 12:22:39 - [MESSAGE][PASSED] - Text 'Automate001 eligible 2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 12:22:39 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 12:22:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 12:22:42 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 12:22:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 12:22:44 - [TEST_STEP][PASSED] - Statement - selectMonth = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectMonth, "xpath", "equals", "//body/div/div/div/select/option[@value="" + CurrentMonth + ""]", true): Modify property of object successfully
+
+2018-10-03 12:22:44 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:22:44 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 12:22:44 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 12:22:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 12:22:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 12:22:45 - [TEST_STEP][PASSED] - Statement - selectYear = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectYear, "xpath", "equals", "//div/div/div/select/option[@value="" + FiftysevenYrsBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 12:22:45 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:22:45 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 12:22:45 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 12:22:45 - [TEST_STEP][PASSED] - Statement - UpdatedSelectDate = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date), "xpath", "equals", "//body/div/table/tbody/tr/td/a[text()="" + OneDayBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 12:22:45 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:22:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 12:22:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 12:22:45 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 12:22:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 12:22:47 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:49 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <select class="ui-datepicker-month"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+
+2018-10-03 12:22:50 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <select class="ui-datepicker-month"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540569917.png]]
+
+2018-10-03 12:22:50 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:22:51 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:22:51 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <option> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+
+2018-10-03 12:22:51 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <option> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540571084.png]]
+
+2018-10-03 12:22:51 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:53 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <select class="ui-datepicker-year"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+
+2018-10-03 12:22:53 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <select class="ui-datepicker-year"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540573281.png]]
+
+2018-10-03 12:22:53 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:22:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:22:54 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <option> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+
+2018-10-03 12:22:54 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <option> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540574447.png]]
+
+2018-10-03 12:22:54 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:56 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <a class="ui-state-default" href="#"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+
+2018-10-03 12:22:56 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <a class="ui-state-default" href="#"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540576668.png]]
+
+2018-10-03 12:22:56 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:22:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:22:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 12:22:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 12:22:59 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 12:23:03 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 12:23:03 - [TEST_STEP][PASSED] - delay: Delayed 30 second(s)
+
+2018-10-03 12:23:33 - [MESSAGE][PASSED] - Delayed 30 second(s)
+
+2018-10-03 12:23:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 12:23:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 12:23:33 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 12:23:37 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 12:23:37 - [TEST_STEP][PASSED] - setText: Text '000209039145' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 12:23:37 - [MESSAGE][PASSED] - Text '000209039145' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 12:23:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 12:23:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 12:23:37 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:23:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:23:39 - [TEST_STEP][PASSED] - setText: Text 'Automate001 not eligible 1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 12:23:40 - [MESSAGE][PASSED] - Text 'Automate001 not eligible 1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 12:23:40 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:23:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:23:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 12:23:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 12:23:42 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:23:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:23:44 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' located by 'By.xpath: //*[(@class = 'ui-datepicker-month' or @class = 'ui-datepicker-month katalonHighlight' or @class = 'ui-datepicker-month katalonDeHighlight') and @data-handler = 'selectMonth' and @data-event = 'change']' not found)
+
+2018-10-03 12:25:49 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' located by 'By.xpath: //*[(@class = 'ui-datepicker-month' or @class = 'ui-datepicker-month katalonHighlight' or @class = 'ui-datepicker-month katalonDeHighlight') and @data-handler = 'selectMonth' and @data-event = 'change']' not found)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540748911.png]]
+
+2018-10-03 12:25:49 - [TEST_STEP][PASSED] - Statement - selectMonth = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectMonth, "xpath", "equals", "//body/div/div/div/select/option[@value="" + CurrentMonth + ""]", true): Modify property of object successfully
+
+2018-10-03 12:25:49 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:25:49 - [TEST_STEP][FAILED] - click: Unable to click on object '' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: '' located by 'By.xpath: //body/div/div/div/select/option[@value="9"]' not found)
+
+2018-10-03 12:27:52 - [MESSAGE][FAILED] - Unable to click on object '' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: '' located by 'By.xpath: //body/div/div/div/select/option[@value="9"]' not found)
+[[ATTACHMENT|C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite\\20181003_122040\\1538540872758.png]]
+
+2018-10-03 12:27:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 12:29:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 12:29:49 - [TEST_STEP][PASSED] - Statement - selectYear = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectYear, "xpath", "equals", "//div/div/div/select/option[@value="" + EighteenYrsBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 12:29:49 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:29:49 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 12:29:49 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 12:29:49 - [TEST_STEP][PASSED] - Statement - UpdatedSelectDate = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date), "xpath", "equals", "//body/div/table/tbody/tr/td/a[text()="" + OneDayBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 12:29:49 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:29:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 12:29:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 12:29:50 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:29:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:29:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 12:29:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 12:29:53 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:29:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:29:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 12:29:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 12:29:55 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:29:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:29:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 12:29:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 12:29:56 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:29:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:29:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 12:29:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 12:29:59 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:30:00 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:30:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 12:30:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 12:30:00 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:30:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:30:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 12:30:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 12:30:02 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:30:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:30:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 12:30:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 12:30:05 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-10-03 12:30:11 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-10-03 12:30:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 12:30:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 12:30:11 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 12:30:15 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 12:30:15 - [TEST_STEP][PASSED] - setText: Text '600203039154' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 12:30:15 - [MESSAGE][PASSED] - Text '600203039154' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 12:30:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 12:30:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 12:30:15 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:30:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:30:17 - [TEST_STEP][PASSED] - setText: Text 'Automate001 not eligible 2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 12:30:17 - [MESSAGE][PASSED] - Text 'Automate001 not eligible 2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 12:30:17 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:30:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:30:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 12:30:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 12:30:20 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:30:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:30:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 12:31:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 12:31:07 - [TEST_STEP][PASSED] - Statement - selectMonth = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectMonth, "xpath", "equals", "//body/div/div/div/select/option[@value="" + CurrentMonth + ""]", true): Modify property of object successfully
+
+2018-10-03 12:31:07 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:31:07 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 12:31:07 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 12:31:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 12:31:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 12:31:08 - [TEST_STEP][PASSED] - Statement - selectYear = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectYear, "xpath", "equals", "//div/div/div/select/option[@value="" + FiftysevenYrsBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 12:31:08 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:31:08 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 12:31:08 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 12:31:08 - [TEST_STEP][PASSED] - Statement - UpdatedSelectDate = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date), "xpath", "equals", "//body/div/table/tbody/tr/td/a[text()="" + CurrentDate + ""]", true): Modify property of object successfully
+
+2018-10-03 12:31:08 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 12:31:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 12:31:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 12:31:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 12:31:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 12:31:09 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:31:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:31:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 12:31:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 12:31:12 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:31:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:31:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 12:31:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 12:31:13 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:31:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:31:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 12:31:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 12:31:15 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 12:31:16 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 12:31:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 12:31:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 12:31:17 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:31:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:31:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 12:31:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 12:31:19 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:31:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:31:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 12:31:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 12:31:21 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 12:31:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 12:31:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save and Continue Form 2' is clicked on
+
+2018-10-03 12:31:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save and Continue Form 2' is clicked on
+
+2018-10-03 12:31:30 - [MESSAGE][FAILED] - Unable to call Test Case with id 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible' (Root cause: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible' failed)]]></system-out>
+         <system-err><![CDATA[2018-10-03 12:20:43 - [TEST_CASE][FAILED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to set text '010903091927' of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <input id="_newreg_WAR_registrationportlet_dto.registrationNo" class="form-control" name="_newreg_WAR_registrationportlet_dto.registrationNo" type="text"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:32)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:950)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:133)
+	at Script1534407542402.run(Script1534407542402.groovy:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:99)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:60)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:54)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:45)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:93)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325)
+	at groovy.lang.MetaClassImpl.invokeStaticMethod(MetaClassImpl.java:1469)
+	at org.codehaus.groovy.runtime.callsite.StaticMetaClassSite.call(StaticMetaClassSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at Script1536719457822.run(Script1536719457822.groovy:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1538540440246.run(TempTestSuite1538540440246.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-03 12:20:42 - [TEST_SUITE][FAILED] - New Test Suite: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to set text '010903091927' of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <input id="_newreg_WAR_registrationportlet_dto.registrationNo" class="form-control" name="_newreg_WAR_registrationportlet_dto.registrationNo" type="text"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:32)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:950)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:133)
+	at Script1534407542402.run(Script1534407542402.groovy:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:99)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:60)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:54)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:45)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:93)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325)
+	at groovy.lang.MetaClassImpl.invokeStaticMethod(MetaClassImpl.java:1469)
+	at org.codehaus.groovy.runtime.callsite.StaticMetaClassSite.call(StaticMetaClassSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at Script1536719457822.run(Script1536719457822.groovy:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1538540440246.run(TempTestSuite1538540440246.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-out>
+      <system-err><![CDATA[2018-10-03 12:20:42 - [TEST_SUITE][FAILED] - New Test Suite: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to set text '010903091927' of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <input id="_newreg_WAR_registrationportlet_dto.registrationNo" class="form-control" name="_newreg_WAR_registrationportlet_dto.registrationNo" type="text"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'WEIZHENG', ip: '10.212.128.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9404, moz:profile: C:\Users\Wei Zheng\AppData\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: d63bf37d-8da7-4b59-a0f0-3b8cc2fccefe)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:32)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:950)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:133)
+	at Script1534407542402.run(Script1534407542402.groovy:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:99)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:60)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:54)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:45)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:93)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325)
+	at groovy.lang.MetaClassImpl.invokeStaticMethod(MetaClassImpl.java:1469)
+	at org.codehaus.groovy.runtime.callsite.StaticMetaClassSite.call(StaticMetaClassSite.java:53)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at Script1536719457822.run(Script1536719457822.groovy:19)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1538540440246.run(TempTestSuite1538540440246.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+   </testsuite>
+</testsuites>

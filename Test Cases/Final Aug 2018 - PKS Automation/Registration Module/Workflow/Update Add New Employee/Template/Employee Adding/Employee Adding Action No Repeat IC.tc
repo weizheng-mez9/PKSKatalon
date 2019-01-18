@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add 2 Eligible 2 Not Eligible
+
+to ensure not hitting special case, adding employee with no repeated IC</description>
+   <name>Employee Adding Action No Repeat IC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00dfaa18-b098-4e1e-b8e8-cfea4133a877</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add Director</name>
+   <tag></tag>
+   <elementGuidId>63053500-7f96-4595-961e-8027e46ef425</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_searchforemployer_WAR_registrationportlet_addDirectorBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-trigger btn blueBtn col-md-3 btn-lg browserIdBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>targets</name>
+      <type>Main</type>
+      <value>baseMsgDivId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/registration/update/update-director/owner-information?p_p_id=searchforemployer_WAR_registrationportlet&amp;p_p_lifecycle=0&amp;p_p_state=exclusive&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_searchforemployer_WAR_registrationportlet_redirect=%2Fweb%2Fregistration%2Fupdate%2Fupdate-director%2Fowner-information%3Fp_p_id%3Dsearchforemployer_WAR_registrationportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_searchforemployer_WAR_registrationportlet_mvcPath%3D%252Fapps%252Freg%252Fupdate_director%252Fupdate_director_form.jsp%26_searchforemployer_WAR_registrationportlet_employerIdKey%3D10000152%26_searchforemployer_WAR_registrationportlet_regSectionKey%3D206%26_searchforemployer_WAR_registrationportlet_regViewKey%3D701%26_searchforemployer_WAR_registrationportlet_browserIdKey%3D1536739172177&amp;_searchforemployer_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fupdate_director%2Fupdate_director_popup_model%2Fupdate_director_add_director_popup_model.jsp&amp;_searchforemployer_WAR_registrationportlet_employerIdKey=10000152&amp;_searchforemployer_WAR_registrationportlet_browserIdKey=1536739172177</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formid</name>
+      <type>Main</type>
+      <value>_searchforemployer_WAR_registrationportlet_directorForm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						 
+						 
+						 ADD DIRECTOR/OWNER
+				</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_searchforemployer_WAR_registrationportlet_addDirectorBtn&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>//a[@id='_searchforemployer_WAR_registrationportlet_addDirectorBtn']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='yui_patched_v3_11_0_1_1536739258245_478']/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Director/Owner', &quot;'&quot;, 's Information')])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Received Date'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing Director/Owner Listing'])[1]/preceding::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <value>//a[contains(@href, 'https://assist2-uat.perkeso.gov.my/web/registration/update/update-director/owner-information?p_p_id=searchforemployer_WAR_registrationportlet&amp;p_p_lifecycle=0&amp;p_p_state=exclusive&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_searchforemployer_WAR_registrationportlet_redirect=%2Fweb%2Fregistration%2Fupdate%2Fupdate-director%2Fowner-information%3Fp_p_id%3Dsearchforemployer_WAR_registrationportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_searchforemployer_WAR_registrationportlet_mvcPath%3D%252Fapps%252Freg%252Fupdate_director%252Fupdate_director_form.jsp%26_searchforemployer_WAR_registrationportlet_employerIdKey%3D10000152%26_searchforemployer_WAR_registrationportlet_regSectionKey%3D206%26_searchforemployer_WAR_registrationportlet_regViewKey%3D701%26_searchforemployer_WAR_registrationportlet_browserIdKey%3D1536739172177&amp;_searchforemployer_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fupdate_director%2Fupdate_director_popup_model%2Fupdate_director_add_director_popup_model.jsp&amp;_searchforemployer_WAR_registrationportlet_employerIdKey=10000152&amp;_searchforemployer_WAR_registrationportlet_browserIdKey=1536739172177')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div/a</value>
+   </webElementXpaths>
+</WebElementEntity>

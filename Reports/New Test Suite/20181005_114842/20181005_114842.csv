@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Firefox 62.0,,2018-10-05 11:48:47,2018-10-05 12:16:47,27m - 59.916s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Limited Liability,Firefox 62.0,,2018-10-05 11:48:48,2018-10-05 11:55:16,6m - 28.444s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 11:48:49,2018-10-05 11:49:54,1m - 5.524s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 11:49:54,2018-10-05 11:52:42,2m - 48.034s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 11:52:42,2018-10-05 11:54:32,1m - 49.249s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 11:54:32,2018-10-05 11:55:16,44.781s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - Sendirian Berhad,Firefox 62.0,,2018-10-05 11:55:16,2018-10-05 12:02:54,7m - 37.627s,FAILED
+callTestCase,Firefox 62.0,,2018-10-05 11:55:17,2018-10-05 11:56:24,1m - 7.117s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 11:56:24,2018-10-05 11:59:11,2m - 47.252s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 11:59:11,2018-10-05 12:02:54,3m - 43.000s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Other - Business Representative,Firefox 62.0,,2018-10-05 12:02:54,2018-10-05 12:10:28,7m - 33.741s,FAILED
+callTestCase,Firefox 62.0,,2018-10-05 12:02:54,2018-10-05 12:03:59,1m - 4.834s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 12:03:59,2018-10-05 12:06:46,2m - 47.243s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 12:06:46,2018-10-05 12:10:28,3m - 41.466s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Other - Cooperative,Firefox 62.0,,2018-10-05 12:10:28,2018-10-05 12:16:47,6m - 18.927s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 12:10:28,2018-10-05 12:11:28,59.690s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 12:11:28,2018-10-05 12:14:14,2m - 46.091s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 12:14:14,2018-10-05 12:16:02,1m - 48.306s,PASSED
+callTestCase,Firefox 62.0,,2018-10-05 12:16:02,2018-10-05 12:16:47,44.686s,PASSED

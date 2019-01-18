@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save  Continu in Under enforcement Page</name>
+   <tag></tag>
+   <elementGuidId>5290bf34-ee39-4466-8ee2-a18c1f2a51de</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formid</name>
+      <type>Main</type>
+      <value>_searchforemployer_WAR_registrationportlet_remarkForm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/registration/update/update-employee-information-employer-?p_auth=fJ0tlXoQ&amp;p_p_id=searchforemployer_WAR_registrationportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_searchforemployer_WAR_registrationportlet_javax.portlet.action=exeAction&amp;_searchforemployer_WAR_registrationportlet_regActionKey=444&amp;_searchforemployer_WAR_registrationportlet_cmd=updateEmployeeInfoSubmitId&amp;_searchforemployer_WAR_registrationportlet_isUnderEnforcementCase=true&amp;_searchforemployer_WAR_registrationportlet_browserIdKey=1535360249165&amp;_searchforemployer_WAR_registrationportlet_processInstanceIdKey=&amp;_searchforemployer_WAR_registrationportlet_regViewKey=102&amp;_searchforemployer_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fupdate_employee_info%2Fupdate_employee_info_preview.jsp</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>targets</name>
+      <type>Main</type>
+      <value>baseMsgDivId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg blueBtn col-md-2 pull-right browserIdBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_patched_v3_11_0_1_1535360397270_506</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SAVE &amp; CONTINUE	
+								</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_patched_v3_11_0_1_1535360397270_506&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

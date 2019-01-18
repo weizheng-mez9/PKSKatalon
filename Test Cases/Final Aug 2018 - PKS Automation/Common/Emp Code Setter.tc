@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>creating a textfile storing reference number to easy process in case any drop of testing</description>
+   <name>Emp Code Setter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cef00f80-6814-4dcb-a533-d36e6563e988</testCaseGuid>
+</TestCaseEntity>

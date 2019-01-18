@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Update Employee Information (Employer),Chrome 70.0.3538.102,,2018-11-25 09:15:12,2018-11-25 09:51:11,35m - 59.278s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/Employer - UO (Approve),Chrome 70.0.3538.102,,2018-11-25 09:15:12,2018-11-25 09:23:10,7m - 57.389s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:15:13,2018-11-25 09:23:10,7m - 56.947s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/Employer - UO (Query),Chrome 70.0.3538.102,,2018-11-25 09:23:10,2018-11-25 09:26:25,3m - 14.850s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:23:10,2018-11-25 09:26:25,3m - 14.542s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/Employer - UO (Reject),Chrome 70.0.3538.102,,2018-11-25 09:26:25,2018-11-25 09:29:39,3m - 14.668s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:26:25,2018-11-25 09:29:39,3m - 14.411s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/Employer - UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-25 09:29:39,2018-11-25 09:31:19,1m - 39.359s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:29:40,2018-11-25 09:31:19,1m - 39.027s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/OTC - UO (Approve),Chrome 70.0.3538.102,,2018-11-25 09:31:19,2018-11-25 09:32:58,1m - 38.926s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:31:19,2018-11-25 09:32:58,1m - 38.642s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/OTC - UO (Query),Chrome 70.0.3538.102,,2018-11-25 09:32:58,2018-11-25 09:34:36,1m - 38.660s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:32:58,2018-11-25 09:34:36,1m - 38.398s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/OTC - UO (Reject),Chrome 70.0.3538.102,,2018-11-25 09:34:36,2018-11-25 09:36:15,1m - 38.956s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:34:37,2018-11-25 09:36:15,1m - 38.708s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/OTC - UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-25 09:36:15,2018-11-25 09:37:54,1m - 38.898s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:36:16,2018-11-25 09:37:54,1m - 38.641s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/PAU to UO (Approve),Chrome 70.0.3538.102,,2018-11-25 09:37:54,2018-11-25 09:39:34,1m - 39.394s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:37:54,2018-11-25 09:39:34,1m - 39.083s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/PAU to UO (Query),Chrome 70.0.3538.102,,2018-11-25 09:39:34,2018-11-25 09:41:12,1m - 38.851s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:39:34,2018-11-25 09:41:12,1m - 38.601s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/PAU to UO (Reject),Chrome 70.0.3538.102,,2018-11-25 09:41:12,2018-11-25 09:42:51,1m - 38.401s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:41:13,2018-11-25 09:42:51,1m - 38.089s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/PAU to UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-25 09:42:51,2018-11-25 09:44:30,1m - 38.655s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:42:51,2018-11-25 09:44:29,1m - 38.363s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/PKRBO - UO (Approve),Chrome 70.0.3538.102,,2018-11-25 09:44:30,2018-11-25 09:46:10,1m - 40.103s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:44:30,2018-11-25 09:46:10,1m - 39.875s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/PKRBO - UO (Query),Chrome 70.0.3538.102,,2018-11-25 09:46:10,2018-11-25 09:47:50,1m - 40.191s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:46:10,2018-11-25 09:47:50,1m - 39.943s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/PKRBO - UO (Reject),Chrome 70.0.3538.102,,2018-11-25 09:47:50,2018-11-25 09:49:31,1m - 40.721s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:47:50,2018-11-25 09:49:31,1m - 40.444s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employer)/PKRBO - UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-25 09:49:31,2018-11-25 09:51:11,1m - 40.145s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 09:49:31,2018-11-25 09:51:11,1m - 39.862s,FAILED

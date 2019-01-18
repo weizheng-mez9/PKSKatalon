@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Form 1A - Cessation as Employer,Chrome 70.0.3538.110,This test suite consisted all automated workflow,2018-11-28 09:49:37,2018-11-28 09:59:01,9m - 24.583s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Approve),Chrome 70.0.3538.110,,2018-11-28 09:49:37,2018-11-28 09:59:01,9m - 24.132s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 09:49:37,2018-11-28 09:59:01,9m - 23.755s,FAILED

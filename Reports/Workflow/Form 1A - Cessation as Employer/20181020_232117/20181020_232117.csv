@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Form 1A - Cessation as Employer,Chrome 69.0.3497.100,This test suite consisted all automated workflow,2018-10-21 05:29:22,2018-10-21 06:23:44,54m - 21.707s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Approve),Chrome 69.0.3497.100,,2018-10-21 05:29:23,2018-10-21 05:38:47,9m - 24.549s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 05:29:23,2018-10-21 05:38:47,9m - 24.093s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Query),Chrome 69.0.3497.100,,2018-10-21 05:38:47,2018-10-21 05:47:02,8m - 14.527s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 05:38:47,2018-10-21 05:47:02,8m - 14.379s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Reject),Chrome 69.0.3497.100,,2018-10-21 05:47:02,2018-10-21 05:56:04,9m - 2.275s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 05:47:02,2018-10-21 05:56:04,9m - 2.128s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Under enforcement),Chrome 69.0.3497.100,,2018-10-21 05:56:04,2018-10-21 05:58:50,2m - 46.500s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 05:56:04,2018-10-21 05:57:20,1m - 15.532s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 05:57:20,2018-10-21 05:58:50,1m - 30.765s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Approve),Chrome 69.0.3497.100,,2018-10-21 05:58:50,2018-10-21 06:01:35,2m - 44.671s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 05:58:51,2018-10-21 06:00:05,1m - 14.542s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:00:05,2018-10-21 06:01:35,1m - 29.955s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Query),Chrome 69.0.3497.100,,2018-10-21 06:01:35,2018-10-21 06:05:26,3m - 51.116s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:01:35,2018-10-21 06:02:50,1m - 14.670s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:02:50,2018-10-21 06:05:26,2m - 36.282s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Reject),Chrome 69.0.3497.100,,2018-10-21 06:05:26,2018-10-21 06:10:33,5m - 6.612s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:05:26,2018-10-21 06:06:41,1m - 14.744s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:06:41,2018-10-21 06:10:33,3m - 51.699s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Under enforcement),Chrome 69.0.3497.100,,2018-10-21 06:10:33,2018-10-21 06:13:19,2m - 45.722s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:10:33,2018-10-21 06:11:49,1m - 15.792s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:11:49,2018-10-21 06:13:19,1m - 29.789s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Approve),Chrome 69.0.3497.100,,2018-10-21 06:13:19,2018-10-21 06:17:17,3m - 58.673s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:13:19,2018-10-21 06:17:17,3m - 58.535s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Query),Chrome 69.0.3497.100,,2018-10-21 06:17:17,2018-10-21 06:19:57,2m - 39.929s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:17:17,2018-10-21 06:18:28,1m - 10.746s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:18:28,2018-10-21 06:19:57,1m - 29.026s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Reject),Chrome 69.0.3497.100,,2018-10-21 06:19:57,2018-10-21 06:23:43,3m - 45.919s,FAILED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:19:57,2018-10-21 06:21:08,1m - 10.626s,PASSED
+callTestCase,Chrome 69.0.3497.100,,2018-10-21 06:21:08,2018-10-21 06:23:43,2m - 35.150s,FAILED

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Confirm Submit Button</name>
+   <tag></tag>
+   <elementGuidId>6c01c5e6-b13a-4179-8338-9bf6616831ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(contains(text(), '
+								CONFIRM
+							') or contains(., '
+								CONFIRM
+							'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/registration/update/update-add-new-employee?p_auth=m4fufzt5&amp;p_p_id=searchforemployer_WAR_registrationportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_searchforemployer_WAR_registrationportlet_javax.portlet.action=exeAction&amp;_searchforemployer_WAR_registrationportlet_regActionKey=5&amp;_searchforemployer_WAR_registrationportlet_cmd=updateAddNewEmployeeSubmitId&amp;_searchforemployer_WAR_registrationportlet_browserIdKey=1536034920501&amp;_searchforemployer_WAR_registrationportlet_processInstanceIdKey=&amp;_searchforemployer_WAR_registrationportlet_regViewKey=37&amp;_searchforemployer_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fupdate_add_new_employee%2Fupdate_add_new_employee_preview.jsp</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirm btn blueBtn width-30</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formid</name>
+      <type>Main</type>
+      <value>_searchforemployer_WAR_registrationportlet_fm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_patched_v3_11_0_1_1536035520279_379</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONFIRM</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_patched_v3_11_0_1_1536035520279_379&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

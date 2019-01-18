@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite (1),Firefox 62.0,,2018-10-03 16:13:57,2018-10-03 16:20:29,6m - 32.080s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - BHD,Firefox 62.0,,2018-10-03 16:13:58,2018-10-03 16:20:29,6m - 30.963s,PASSED
+callTestCase,Firefox 62.0,,2018-10-03 16:13:58,2018-10-03 16:15:07,1m - 8.729s,PASSED
+callTestCase,Firefox 62.0,,2018-10-03 16:15:07,2018-10-03 16:17:54,2m - 47.142s,PASSED
+callTestCase,Firefox 62.0,,2018-10-03 16:17:54,2018-10-03 16:19:45,1m - 50.332s,PASSED
+callTestCase,Firefox 62.0,,2018-10-03 16:19:45,2018-10-03 16:20:29,44.068s,PASSED

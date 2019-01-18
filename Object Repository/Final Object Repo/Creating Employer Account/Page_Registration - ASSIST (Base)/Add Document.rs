@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add Document</name>
+   <tag></tag>
+   <elementGuidId>d6fd04dd-dd8f-4d09-8d30-3d92708a4aa3</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_portalidregistration_WAR_baseportlet_dialogBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/base/portal-id/registration?p_p_id=portalidregistration_WAR_baseportlet&amp;p_p_lifecycle=0&amp;p_p_state=exclusive&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_portalidregistration_WAR_baseportlet_temp=true&amp;_portalidregistration_WAR_baseportlet_mvcPath=%2Fapps%2Fsupporting_doc%2Fadd_document_popup.jsp&amp;_portalidregistration_WAR_baseportlet_tablePkId=195126&amp;_portalidregistration_WAR_baseportlet_docSectionId=1&amp;_portalidregistration_WAR_baseportlet_backJspPath=%2Fapps%2Fportal_id%2Fregistration%2Fview.jsp</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg blueBtn col-md-2 pull-right popup-trigger</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								Add Document
+				             </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_portalidregistration_WAR_baseportlet_dialogBtn&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Update Employee Information (Employee),Chrome 70.0.3538.102,,2018-11-23 00:38:17,2018-11-23 00:59:00,20m - 42.716s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Approve),Chrome 70.0.3538.102,,2018-11-23 00:38:18,2018-11-23 00:41:07,2m - 49.534s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:38:18,2018-11-23 00:39:14,55.937s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:39:14,2018-11-23 00:41:07,1m - 53.287s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Query),Chrome 70.0.3538.102,,2018-11-23 00:41:07,2018-11-23 00:42:38,1m - 30.347s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:41:08,2018-11-23 00:42:38,1m - 29.340s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Reject),Chrome 70.0.3538.102,,2018-11-23 00:42:38,2018-11-23 00:44:06,1m - 28.892s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:42:38,2018-11-23 00:44:06,1m - 28.671s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-23 00:44:06,2018-11-23 00:45:36,1m - 29.475s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:44:07,2018-11-23 00:45:36,1m - 29.206s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Approve),Chrome 70.0.3538.102,,2018-11-23 00:45:36,2018-11-23 00:47:29,1m - 52.920s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:45:36,2018-11-23 00:47:29,1m - 52.689s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Query),Chrome 70.0.3538.102,,2018-11-23 00:47:29,2018-11-23 00:49:21,1m - 52.575s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:47:29,2018-11-23 00:49:21,1m - 52.306s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Reject),Chrome 70.0.3538.102,,2018-11-23 00:49:21,2018-11-23 00:51:14,1m - 52.191s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:49:22,2018-11-23 00:51:14,1m - 51.868s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-23 00:51:14,2018-11-23 00:53:06,1m - 52.297s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:51:14,2018-11-23 00:53:06,1m - 52.005s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Approve),Chrome 70.0.3538.102,,2018-11-23 00:53:06,2018-11-23 00:54:35,1m - 28.665s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:53:06,2018-11-23 00:54:35,1m - 28.432s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Query),Chrome 70.0.3538.102,,2018-11-23 00:54:35,2018-11-23 00:56:03,1m - 27.986s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:54:35,2018-11-23 00:56:03,1m - 27.722s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Reject),Chrome 70.0.3538.102,,2018-11-23 00:56:03,2018-11-23 00:57:31,1m - 28.426s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:56:03,2018-11-23 00:57:31,1m - 28.218s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-23 00:57:31,2018-11-23 00:59:00,1m - 29.036s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-23 00:57:31,2018-11-23 00:59:00,1m - 28.787s,FAILED

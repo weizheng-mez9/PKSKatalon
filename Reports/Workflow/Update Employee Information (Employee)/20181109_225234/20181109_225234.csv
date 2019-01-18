@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Update Employee Information (Employee),Firefox 63.0,,2018-11-09 22:52:37,2018-11-09 23:01:44,9m - 6.937s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Approve),Firefox 63.0,,2018-11-09 22:52:37,2018-11-09 22:53:07,29.479s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:52:38,2018-11-09 22:53:07,28.946s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Query),Firefox 63.0,,2018-11-09 22:53:07,2018-11-09 22:53:38,30.809s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:53:07,2018-11-09 22:53:38,30.580s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Reject),Firefox 63.0,,2018-11-09 22:53:38,2018-11-09 22:54:05,27.060s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:53:38,2018-11-09 22:54:05,26.856s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/OTC to UO (Under enforcement),Firefox 63.0,,2018-11-09 22:54:05,2018-11-09 22:54:32,27.586s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:54:05,2018-11-09 22:54:32,27.360s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Approve),Firefox 63.0,,2018-11-09 22:54:32,2018-11-09 22:54:59,26.804s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:54:32,2018-11-09 22:54:59,26.610s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Query),Firefox 63.0,,2018-11-09 22:54:59,2018-11-09 22:59:02,4m - 3.350s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:54:59,2018-11-09 22:59:02,4m - 3.111s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Reject),Firefox 63.0,,2018-11-09 22:59:02,2018-11-09 22:59:30,27.287s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:59:03,2018-11-09 22:59:30,27.113s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PAU to UO (Under enforcement),Firefox 63.0,,2018-11-09 22:59:30,2018-11-09 22:59:55,25.353s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:59:30,2018-11-09 22:59:55,25.157s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Approve),Firefox 63.0,,2018-11-09 22:59:55,2018-11-09 23:00:23,28.021s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 22:59:55,2018-11-09 23:00:23,27.766s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Query),Firefox 63.0,,2018-11-09 23:00:23,2018-11-09 23:00:51,28.222s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 23:00:23,2018-11-09 23:00:51,28.031s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Reject),Firefox 63.0,,2018-11-09 23:00:51,2018-11-09 23:01:17,26.121s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 23:00:51,2018-11-09 23:01:17,25.947s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employee Information (Employee)/PKRBO to UO (Under enforcement),Firefox 63.0,,2018-11-09 23:01:17,2018-11-09 23:01:43,25.228s,FAILED
+callTestCase,Firefox 63.0,,2018-11-09 23:01:18,2018-11-09 23:01:43,25.050s,FAILED

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This do not uses Employer Code</description>
+   <name>OTC - RIO - RO (Query)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccb12a7b-cd8f-42e7-a820-ad048c0272cd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To ensure hitting special case, employer name to be added always have to be changed while we can remain using the same IC. Hence, this tc will help to decide which set of name the case will change to</description>
+   <name>Employee Set Decider</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d67492a-e2d8-4bc6-89d6-674809f0881c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Form 3 EIS - Cessation as Employer" time="307" tests="1" failures="0" errors="0">
+   <testsuite name="Form 3 EIS - Cessation as Employer" tests="1" failures="0" errors="0" time="307" timestamp="2018-12-12 23:59:17" hostname="Admin - Win7Test02" id="Test Suites/Workflow/Form 3 EIS - Cessation as Employer">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Admin\\Desktop\\PKS\\Perkeso Phase A\\Reports\\Workflow\\Form 3 EIS - Cessation as Employer\\20181212_182015"/>
+         <property name="logFiles" value="C:\\Users\\Admin\\Desktop\\PKS\\Perkeso Phase A\\Reports\\Workflow\\Form 3 EIS - Cessation as Employer\\20181212_182015\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - Win7Test02"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.8.6.1"/>
+         <property name="browser" value="Chrome 70.0.3538.110"/>
+         <property name="hostAddress" value="10.20.3.72"/>
+         <property name="sessionId" value="c6c9049c97fdb635ce9fdeda80b9b9e5"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Query)" classname="Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Query)" status="PASSED">
+         <system-out><![CDATA[2018-12-12 23:59:17 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Query): Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Query)
+
+2018-12-12 23:59:18 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Template/Form 3 A - Cessation As Employer (OTC)' successfully
+
+2018-12-12 23:59:18 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Template/Form 3 A - Cessation As Employer (OTC): Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Template/Form 3 A - Cessation As Employer (OTC)
+
+2018-12-12 23:59:18 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-12-12 23:59:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-12 23:59:23 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-12 23:59:24 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-12 23:59:24 - [TEST_STEP][PASSED] - setText: Text 'johorotc1@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-12 23:59:25 - [MESSAGE][PASSED] - Text 'johorotc1@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-12 23:59:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-12 23:59:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-12 23:59:25 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-12 23:59:26 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-12 23:59:26 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-12 23:59:26 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-12 23:59:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-12 23:59:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-12 23:59:26 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-12 23:59:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-12 23:59:27 - [TEST_STEP][PASSED] - Statement - Try: Delayed 2 second(s)
+
+2018-12-12 23:59:27 - [TEST_STEP][PASSED] - Statement - Checker = false: null
+
+2018-12-12 23:59:27 - [TEST_STEP][PASSED] - Statement - Checker = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementHasAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Landing Page/BM Detecting), "href", 20, OPTIONAL): Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-12-12 23:59:29 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-12-12 23:59:29 - [TEST_STEP][PASSED] - Statement - out.println(Checker): null
+
+2018-12-12 23:59:29 - [TEST_STEP][PASSED] - Statement - If (Checker == false): null
+
+2018-12-12 23:59:29 - [TEST_STEP][PASSED] - Statement - Else: null
+
+2018-12-12 23:59:29 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-12 23:59:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-12 23:59:31 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/web/registration/eis-update/form-3-eis-cessation-as-employer' successfully
+
+2018-12-12 23:59:32 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/web/registration/eis-update/form-3-eis-cessation-as-employer' successfully
+
+2018-12-12 23:59:32 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-12 23:59:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-12 23:59:33 - [TEST_STEP][PASSED] - setText: Text 'E1102069769W' is set on object 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employer Code'
+
+2018-12-12 23:59:33 - [MESSAGE][PASSED] - Text 'E1102069769W' is set on object 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employer Code'
+
+2018-12-12 23:59:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Search' is clicked on
+
+2018-12-12 23:59:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Search' is clicked on
+
+2018-12-12 23:59:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Edit' is clicked on
+
+2018-12-12 23:59:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Edit' is clicked on
+
+2018-12-12 23:59:36 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-12 23:59:37 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-12 23:59:37 - [TEST_STEP][PASSED] - Statement - abc = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employer Status), "value"): Attribute 'value' of object 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employer Status' is: 'Active'
+
+2018-12-12 23:59:37 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employer Status' is: 'Active'
+
+2018-12-12 23:59:37 - [TEST_STEP][PASSED] - Statement - out.println(abc): null
+
+2018-12-12 23:59:37 - [TEST_STEP][PASSED] - Statement - If (abc == "Active"): Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Dormant EIS' is clicked on
+
+2018-12-12 23:59:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Change Employer Status to' is clicked on
+
+2018-12-12 23:59:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Change Employer Status to' is clicked on
+
+2018-12-12 23:59:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Dormant EIS' is clicked on
+
+2018-12-12 23:59:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Dormant EIS' is clicked on
+
+2018-12-12 23:59:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Calender' is clicked on
+
+2018-12-12 23:59:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Calender' is clicked on
+
+2018-12-12 23:59:37 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-12 23:59:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-12 23:59:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Calender - Date' is clicked on
+
+2018-12-12 23:59:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Calender - Date' is clicked on
+
+2018-12-12 23:59:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Save  Continue in Form 3 EIS Page' is clicked on
+
+2018-12-12 23:59:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Save  Continue in Form 3 EIS Page' is clicked on
+
+2018-12-12 23:59:39 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-12 23:59:40 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-12 23:59:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employment Resign Date' is clicked on
+
+2018-12-12 23:59:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employment Resign Date' is clicked on
+
+2018-12-12 23:59:40 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '2030' are selected in object 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employment Resign Date - Year' 
+
+2018-12-12 23:59:41 - [MESSAGE][PASSED] - All options with value '2030' are selected in object 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employment Resign Date - Year' 
+
+2018-12-12 23:59:41 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-12 23:59:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-12 23:59:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employment Resign Date - Year - Date' is clicked on
+
+2018-12-12 23:59:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Employment Resign Date - Year - Date' is clicked on
+
+2018-12-12 23:59:43 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-12 23:59:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-12 23:59:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Save  Continue in Employment Resign Page' is clicked on
+
+2018-12-12 23:59:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Save  Continue in Employment Resign Page' is clicked on
+
+2018-12-12 23:59:45 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-12 23:59:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-12 23:59:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Set Latest - Yes' is clicked on
+
+2018-12-12 23:59:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Set Latest - Yes' is clicked on
+
+2018-12-12 23:59:47 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-12 23:59:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-12 23:59:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Add Document' is clicked on
+
+2018-12-12 23:59:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Add Document' is clicked on
+
+2018-12-12 23:59:50 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-12-12 23:59:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-12 23:59:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Document Type' is clicked on
+
+2018-12-12 23:59:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Document Type' is clicked on
+
+2018-12-12 23:59:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Document Type - Form 3' is clicked on
+
+2018-12-12 23:59:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Document Type - Form 3' is clicked on
+
+2018-12-12 23:59:53 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-12 23:59:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-12 23:59:55 - [TEST_STEP][PASSED] - sendKeys: Keys 'C:\Users\Public\Pictures\Sample Pictures\Koala.jpg' sent to object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/ploading File'
+
+2018-12-12 23:59:56 - [MESSAGE][PASSED] - Keys 'C:\Users\Public\Pictures\Sample Pictures\Koala.jpg' sent to object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/ploading File'
+
+2018-12-12 23:59:56 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-12 23:59:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-12 23:59:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Add Document in Uploading Page' is clicked on
+
+2018-12-12 23:59:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Add Document in Uploading Page' is clicked on
+
+2018-12-12 23:59:57 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-12 23:59:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-12 23:59:59 - [TEST_STEP][PASSED] - Statement - CaseReferenceNo = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Page_Update Employer Information/Reference Number in Update Employee Information Page)): Text of object 'Object Repository/Final Object Repo/Page_Update Employer Information/Reference Number in Update Employee Information Page' is: 'ERN122018C200002413'
+
+2018-12-13 00:00:01 - [MESSAGE][PASSED] - Text of object 'Object Repository/Final Object Repo/Page_Update Employer Information/Reference Number in Update Employee Information Page' is: 'ERN122018C200002413'
+
+2018-12-13 00:00:01 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Setter' successfully
+
+2018-12-13 00:00:01 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Setter: Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Setter
+
+2018-12-13 00:00:01 - [TEST_STEP][PASSED] - Statement - RefNoOldFile = new java.io.File(C://Users//Admin//Desktop//PKS//Automation Reference Point//KatalonReference.txt): null
+
+2018-12-13 00:00:01 - [TEST_STEP][PASSED] - Statement - RefNoOldFile.delete(): null
+
+2018-12-13 00:00:01 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-12-13 00:00:06 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-13 00:00:06 - [TEST_STEP][PASSED] - Statement - RefNo = new java.io.File(C://Users//Admin//Desktop//PKS//Automation Reference Point//KatalonReference.txt): null
+
+2018-12-13 00:00:06 - [TEST_STEP][PASSED] - Statement - f2 = new java.io.FileWriter(RefNo, false): null
+
+2018-12-13 00:00:06 - [TEST_STEP][PASSED] - Statement - f2.write(CaseReferenceNo): null
+
+2018-12-13 00:00:06 - [TEST_STEP][PASSED] - Statement - f2.close(): null
+
+2018-12-13 00:00:06 - [TEST_STEP][PASSED] - Statement - out.println("
+
+
+" + CaseReferenceNo + "
+
+
+"): null
+
+2018-12-13 00:00:06 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Setter' successfully
+
+2018-12-13 00:00:06 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Save  Continue in Uploading Page' is clicked on
+
+2018-12-13 00:00:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Save  Continue in Uploading Page' is clicked on
+
+2018-12-13 00:00:09 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Submit' is clicked on
+
+2018-12-13 00:00:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Submit' is clicked on
+
+2018-12-13 00:00:13 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Confirm' is clicked on
+
+2018-12-13 00:00:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Confirm' is clicked on
+
+2018-12-13 00:00:15 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Message Your Request will be routed to UO' is clicked on
+
+2018-12-13 00:00:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Message Your Request will be routed to UO' is clicked on
+
+2018-12-13 00:00:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Letter of acknowledgement' is clicked on
+
+2018-12-13 00:00:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Letter of acknowledgement' is clicked on
+
+2018-12-13 00:00:22 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Template/Form 3 A - Cessation As Employer (OTC)' successfully
+
+2018-12-13 00:00:22 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Template/Form 3 A - Cessation As Employer (Query)' successfully
+
+2018-12-13 00:00:22 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Template/Form 3 A - Cessation As Employer (Query): Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Template/Form 3 A - Cessation As Employer (Query)
+
+2018-12-13 00:00:23 - [TEST_STEP][NOT_RUN] - callTestCase: NOT_RUN: callTestCase
+
+2018-12-13 00:00:23 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase
+
+2018-12-13 00:00:23 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:00:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:00:24 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/c/portal/logout' successfully
+
+2018-12-13 00:00:24 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/c/portal/logout' successfully
+
+2018-12-13 00:00:24 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:00:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:00:25 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Getter' successfully
+
+2018-12-13 00:00:26 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Getter: Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Getter
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - Statement - Try: null
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - Statement - RefNo = new java.io.File(C://Users//Admin//Desktop//PKS//Automation Reference Point//KatalonReference.txt): null
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - Statement - bufferread = new java.io.BufferedReader(new java.io.FileReader(RefNo)): null
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - Statement - readedVal = bufferread.readLine(): null
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - Statement - out.println(CaseReferenceNo): null
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - Statement - out.println(readedVal): null
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - Statement - CaseReferenceNo = "": null
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - Statement - CaseReferenceNo = readedVal: null
+
+2018-12-13 00:00:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Getter' successfully
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Workflow Owner Finder' successfully
+
+2018-12-13 00:00:26 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Common/Workflow Owner Finder: Test Cases/Final Aug 2018 - PKS Automation/Common/Workflow Owner Finder
+
+2018-12-13 00:00:26 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-12-13 00:00:26 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-12-13 00:00:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-13 00:00:30 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-13 00:00:31 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-13 00:00:31 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-12-13 00:00:36 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-13 00:00:36 - [TEST_STEP][PASSED] - setText: Text 'test@liferay.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-13 00:00:37 - [MESSAGE][PASSED] - Text 'test@liferay.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-13 00:00:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-13 00:00:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-13 00:00:37 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:39 - [TEST_STEP][PASSED] - setText: Text 'test' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-13 00:00:39 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-13 00:00:39 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-13 00:00:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-13 00:00:41 - [TEST_STEP][PASSED] - Statement - tester = com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Landing Page/Select to English): Finding Test Object with id 'Object Repository/Final Object Repo/Landing Page/Select to English'
+
+2018-12-13 00:00:41 - [TEST_STEP][PASSED] - Statement - Try: Delayed 2 second(s)
+
+2018-12-13 00:00:41 - [TEST_STEP][PASSED] - Statement - Checker = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementNotPresent(tester, 3): Web element with id: 'Object Repository/Final Object Repo/Landing Page/Select to English' located by 'By.xpath: //a[@class = 'taglib-language-list-text' and @lang = 'en-US' and (contains(text(), 'EN') or contains(., 'EN'))]' is not present after '3' second(s)
+
+2018-12-13 00:00:43 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Final Object Repo/Landing Page/Select to English' located by 'By.xpath: //a[@class = 'taglib-language-list-text' and @lang = 'en-US' and (contains(text(), 'EN') or contains(., 'EN'))]' is not present after '3' second(s)
+
+2018-12-13 00:00:43 - [TEST_STEP][PASSED] - Statement - If (Checker == false): null
+
+2018-12-13 00:00:43 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:45 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-12-13 00:00:50 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-13 00:00:50 - [TEST_STEP][PASSED] - mouseOver: Object: 'Object Repository/Final Object Repo/Landing Page/WorkFlow Menu' is hovered
+
+2018-12-13 00:00:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Landing Page/WorkFlow Menu' is hovered
+
+2018-12-13 00:00:50 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Landing Page/Select to Workflow Listing' is clicked on
+
+2018-12-13 00:00:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Landing Page/Select to Workflow Listing' is clicked on
+
+2018-12-13 00:00:53 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/WorkFlow Listing Page/Search Information - To Put Ref No' is clicked on
+
+2018-12-13 00:00:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/WorkFlow Listing Page/Search Information - To Put Ref No' is clicked on
+
+2018-12-13 00:00:55 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:00:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:00:57 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Getter' successfully
+
+2018-12-13 00:00:58 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Getter: Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Getter
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - Statement - Try: null
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - Statement - RefNo = new java.io.File(C://Users//Admin//Desktop//PKS//Automation Reference Point//KatalonReference.txt): null
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - Statement - bufferread = new java.io.BufferedReader(new java.io.FileReader(RefNo)): null
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - Statement - readedVal = bufferread.readLine(): null
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - Statement - out.println(CaseReferenceNo): null
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - Statement - out.println(readedVal): null
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - Statement - CaseReferenceNo = "": null
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - Statement - CaseReferenceNo = readedVal: null
+
+2018-12-13 00:00:58 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Getter' successfully
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - setText: Text 'ERN122018C200002413' is set on object 'Object Repository/Final Object Repo/WorkFlow Listing Page/Ref No Set Text'
+
+2018-12-13 00:00:58 - [MESSAGE][PASSED] - Text 'ERN122018C200002413' is set on object 'Object Repository/Final Object Repo/WorkFlow Listing Page/Ref No Set Text'
+
+2018-12-13 00:00:58 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:01:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:01:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/WorkFlow Listing Page/Search Ref No Search Button' is clicked on
+
+2018-12-13 00:01:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/WorkFlow Listing Page/Search Ref No Search Button' is clicked on
+
+2018-12-13 00:01:00 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-12-13 00:01:06 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-12-13 00:01:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/WorkFlow Listing Page/Click Continue Tooltip' is clicked on
+
+2018-12-13 00:01:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/WorkFlow Listing Page/Click Continue Tooltip' is clicked on
+
+2018-12-13 00:01:07 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-12-13 00:01:12 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-13 00:01:12 - [TEST_STEP][PASSED] - doubleClick: Object: 'Object Repository/Final Object Repo/WorkFlow Listing Page/Workflow Found - Listing 1' is double clicked on
+
+2018-12-13 00:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/WorkFlow Listing Page/Workflow Found - Listing 1' is double clicked on
+
+2018-12-13 00:01:12 - [TEST_STEP][PASSED] - Statement - println(OwnerID): null
+
+2018-12-13 00:01:12 - [TEST_STEP][PASSED] - Statement - OwnerID = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/WorkFlow Listing Page/Workflow Found - Listing 1), STOP_ON_FAILURE): Text of object 'Object Repository/Final Object Repo/WorkFlow Listing Page/Workflow Found - Listing 1' is: 'JOHORuo2'
+
+2018-12-13 00:01:12 - [MESSAGE][PASSED] - Text of object 'Object Repository/Final Object Repo/WorkFlow Listing Page/Workflow Found - Listing 1' is: 'JOHORuo2'
+
+2018-12-13 00:01:12 - [TEST_STEP][PASSED] - Statement - OwnerID = OwnerID.toLowerCase() + "@gmail.com": null
+
+2018-12-13 00:01:12 - [TEST_STEP][PASSED] - Statement - println(OwnerID): null
+
+2018-12-13 00:01:12 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:01:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:01:14 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Workflow Owner Finder' successfully
+
+2018-12-13 00:01:14 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:01:15 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:01:15 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/c/portal/logout' successfully
+
+2018-12-13 00:01:16 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/c/portal/logout' successfully
+
+2018-12-13 00:01:16 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:01:17 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:01:17 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow' successfully
+
+2018-12-13 00:01:17 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow
+
+2018-12-13 00:01:17 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-13 00:01:18 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-13 00:01:18 - [TEST_STEP][PASSED] - setText: Text 'johoruo2@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-13 00:01:18 - [MESSAGE][PASSED] - Text 'johoruo2@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-13 00:01:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-13 00:01:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-13 00:01:18 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:01:19 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:01:19 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-13 00:01:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-13 00:01:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-13 00:01:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-13 00:01:20 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:01:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:01:22 - [TEST_STEP][PASSED] - Statement - Try: Delayed 2 second(s)
+
+2018-12-13 00:01:22 - [TEST_STEP][PASSED] - Statement - Checker = false: null
+
+2018-12-13 00:01:22 - [TEST_STEP][PASSED] - Statement - Checker = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementHasAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Landing Page/BM Detecting), "href", 20, OPTIONAL): Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-12-13 00:01:22 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-12-13 00:01:22 - [TEST_STEP][PASSED] - Statement - out.println(Checker): null
+
+2018-12-13 00:01:22 - [TEST_STEP][PASSED] - Statement - If (Checker == false): null
+
+2018-12-13 00:01:22 - [TEST_STEP][PASSED] - Statement - Else: null
+
+2018-12-13 00:01:22 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:01:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:01:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Information' is clicked on
+
+2018-12-13 00:01:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Information' is clicked on
+
+2018-12-13 00:01:24 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-12-13 00:01:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-13 00:01:27 - [TEST_STEP][PASSED] - sendKeys: Keys 'ERN122018C200002413' sent to object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Reference No'
+
+2018-12-13 00:01:27 - [MESSAGE][PASSED] - Keys 'ERN122018C200002413' sent to object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Reference No'
+
+2018-12-13 00:01:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Reference No' is clicked on
+
+2018-12-13 00:01:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Reference No' is clicked on
+
+2018-12-13 00:01:28 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:01:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:01:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Continue' is clicked on
+
+2018-12-13 00:01:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Continue' is clicked on
+
+2018-12-13 00:01:33 - [TEST_STEP][PASSED] - delay: Delayed 20 second(s)
+
+2018-12-13 00:01:53 - [MESSAGE][PASSED] - Delayed 20 second(s)
+
+2018-12-13 00:01:53 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow' successfully
+
+2018-12-13 00:01:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Form 3 Page' is clicked on
+
+2018-12-13 00:01:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Form 3 Page' is clicked on
+
+2018-12-13 00:01:53 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-12-13 00:01:57 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-12-13 00:01:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Resigned Page' is clicked on
+
+2018-12-13 00:01:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Resigned Page' is clicked on
+
+2018-12-13 00:01:57 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:01:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:01:59 - [TEST_STEP][PASSED] - setText: Text 'Remark' is set on object 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Query - Remark'
+
+2018-12-13 00:02:00 - [MESSAGE][PASSED] - Text 'Remark' is set on object 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Query - Remark'
+
+2018-12-13 00:02:00 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:02:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:02:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Save  Continue' is clicked on
+
+2018-12-13 00:02:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Save  Continue' is clicked on
+
+2018-12-13 00:02:02 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:02:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:02:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Query' is clicked on
+
+2018-12-13 00:02:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Query' is clicked on
+
+2018-12-13 00:02:07 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:02:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:02:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Confirm' is clicked on
+
+2018-12-13 00:02:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Confirm' is clicked on
+
+2018-12-13 00:02:16 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:02:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:02:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Message The Case Is Under Query' is clicked on
+
+2018-12-13 00:02:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Message The Case Is Under Query' is clicked on
+
+2018-12-13 00:02:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Letter of inquiry' is clicked on
+
+2018-12-13 00:02:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query)/Letter of inquiry' is clicked on
+
+2018-12-13 00:02:19 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:02:20 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:02:20 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/c/portal/logout' successfully
+
+2018-12-13 00:02:20 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/c/portal/logout' successfully
+
+2018-12-13 00:02:20 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:02:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:02:21 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow' successfully
+
+2018-12-13 00:02:21 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow
+
+2018-12-13 00:02:21 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-13 00:02:22 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-13 00:02:22 - [TEST_STEP][PASSED] - setText: Text 'johoruo2@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-13 00:02:22 - [MESSAGE][PASSED] - Text 'johoruo2@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-13 00:02:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-13 00:02:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-13 00:02:22 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:02:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:02:23 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-13 00:02:24 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-13 00:02:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-13 00:02:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-13 00:02:24 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:02:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:02:26 - [TEST_STEP][PASSED] - Statement - Try: Delayed 2 second(s)
+
+2018-12-13 00:02:26 - [TEST_STEP][PASSED] - Statement - Checker = false: null
+
+2018-12-13 00:02:26 - [TEST_STEP][PASSED] - Statement - Checker = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementHasAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Landing Page/BM Detecting), "href", 20, OPTIONAL): Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-12-13 00:02:26 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-12-13 00:02:26 - [TEST_STEP][PASSED] - Statement - out.println(Checker): null
+
+2018-12-13 00:02:26 - [TEST_STEP][PASSED] - Statement - If (Checker == false): null
+
+2018-12-13 00:02:26 - [TEST_STEP][PASSED] - Statement - Else: null
+
+2018-12-13 00:02:26 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:02:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:02:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Information' is clicked on
+
+2018-12-13 00:02:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Information' is clicked on
+
+2018-12-13 00:02:28 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-12-13 00:02:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-13 00:02:31 - [TEST_STEP][PASSED] - sendKeys: Keys 'ERN122018C200002413' sent to object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Reference No'
+
+2018-12-13 00:02:31 - [MESSAGE][PASSED] - Keys 'ERN122018C200002413' sent to object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Reference No'
+
+2018-12-13 00:02:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Reference No' is clicked on
+
+2018-12-13 00:02:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Reference No' is clicked on
+
+2018-12-13 00:02:32 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:02:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:02:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Continue' is clicked on
+
+2018-12-13 00:02:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Continue' is clicked on
+
+2018-12-13 00:02:37 - [TEST_STEP][PASSED] - delay: Delayed 20 second(s)
+
+2018-12-13 00:02:57 - [MESSAGE][PASSED] - Delayed 20 second(s)
+
+2018-12-13 00:02:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow' successfully
+
+2018-12-13 00:02:57 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/web/registration/eis-update/form-3-eis-cessation-as-employer?p_p_id=searchforemployersip_WAR_registrationportlet&p_p_lifecycle=0&_searchforemployersip_WAR_registrationportlet_regViewKey=87&_searchforemployersip_WAR_registrationportlet_browserIdKey=1536115932192&_searchforemployersip_WAR_registrationportlet_tempEmployerIdKey=128990&_searchforemployersip_WAR_registrationportlet_employerIdKey=&_searchforemployersip_WAR_registrationportlet_refCaseNo=ERN092018C200002133&_searchforemployersip_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fdiscontinue_business_sip%2Fdiscontinue_business_sip_form.jsp&_searchforemployersip_WAR_registrationportlet_regSectionKey=215' successfully
+
+2018-12-13 00:03:00 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/web/registration/eis-update/form-3-eis-cessation-as-employer?p_p_id=searchforemployersip_WAR_registrationportlet&p_p_lifecycle=0&_searchforemployersip_WAR_registrationportlet_regViewKey=87&_searchforemployersip_WAR_registrationportlet_browserIdKey=1536115932192&_searchforemployersip_WAR_registrationportlet_tempEmployerIdKey=128990&_searchforemployersip_WAR_registrationportlet_employerIdKey=&_searchforemployersip_WAR_registrationportlet_refCaseNo=ERN092018C200002133&_searchforemployersip_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fdiscontinue_business_sip%2Fdiscontinue_business_sip_form.jsp&_searchforemployersip_WAR_registrationportlet_regSectionKey=215' successfully
+
+2018-12-13 00:03:00 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-12-13 00:03:05 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-13 00:03:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Next' is clicked on
+
+2018-12-13 00:03:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Next' is clicked on
+
+2018-12-13 00:03:06 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Next in Resigned Page' is clicked on
+
+2018-12-13 00:03:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Next in Resigned Page' is clicked on
+
+2018-12-13 00:03:11 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Add Document' is clicked on
+
+2018-12-13 00:03:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Add Document' is clicked on
+
+2018-12-13 00:03:13 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Document Type' is clicked on
+
+2018-12-13 00:03:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Document Type' is clicked on
+
+2018-12-13 00:03:16 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Document Type - Others' is clicked on
+
+2018-12-13 00:03:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Document Type - Others' is clicked on
+
+2018-12-13 00:03:18 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:20 - [TEST_STEP][PASSED] - sendKeys: Keys 'C:\Users\Public\Pictures\Sample Pictures\Koala.jpg' sent to object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/ploading File'
+
+2018-12-13 00:03:20 - [MESSAGE][PASSED] - Keys 'C:\Users\Public\Pictures\Sample Pictures\Koala.jpg' sent to object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/ploading File'
+
+2018-12-13 00:03:20 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Add Document in Uploading Page' is clicked on
+
+2018-12-13 00:03:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Add Document in Uploading Page' is clicked on
+
+2018-12-13 00:03:23 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Exit' is clicked on
+
+2018-12-13 00:03:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Query - OTC - UO)/Exit' is clicked on
+
+2018-12-13 00:03:27 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:03:28 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:03:28 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/c/portal/logout' successfully
+
+2018-12-13 00:03:29 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/c/portal/logout' successfully
+
+2018-12-13 00:03:29 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:03:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:03:30 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow' successfully
+
+2018-12-13 00:03:30 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow
+
+2018-12-13 00:03:30 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-13 00:03:31 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-12-13 00:03:31 - [TEST_STEP][PASSED] - setText: Text 'johoruo2@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-13 00:03:31 - [MESSAGE][PASSED] - Text 'johoruo2@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-12-13 00:03:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-13 00:03:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-12-13 00:03:31 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-13 00:03:32 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-13 00:03:32 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-13 00:03:32 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-12-13 00:03:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-13 00:03:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-12-13 00:03:33 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:35 - [TEST_STEP][PASSED] - Statement - Try: Delayed 2 second(s)
+
+2018-12-13 00:03:35 - [TEST_STEP][PASSED] - Statement - Checker = false: null
+
+2018-12-13 00:03:35 - [TEST_STEP][PASSED] - Statement - Checker = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementHasAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Landing Page/BM Detecting), "href", 20, OPTIONAL): Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-12-13 00:03:35 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-12-13 00:03:35 - [TEST_STEP][PASSED] - Statement - out.println(Checker): null
+
+2018-12-13 00:03:35 - [TEST_STEP][PASSED] - Statement - If (Checker == false): null
+
+2018-12-13 00:03:35 - [TEST_STEP][PASSED] - Statement - Else: null
+
+2018-12-13 00:03:35 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Information' is clicked on
+
+2018-12-13 00:03:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Information' is clicked on
+
+2018-12-13 00:03:37 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-12-13 00:03:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-13 00:03:40 - [TEST_STEP][PASSED] - sendKeys: Keys 'ERN122018C200002413' sent to object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Reference No'
+
+2018-12-13 00:03:40 - [MESSAGE][PASSED] - Keys 'ERN122018C200002413' sent to object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Reference No'
+
+2018-12-13 00:03:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Reference No' is clicked on
+
+2018-12-13 00:03:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Search Reference No' is clicked on
+
+2018-12-13 00:03:40 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:03:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:03:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Continue' is clicked on
+
+2018-12-13 00:03:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_MyASSIST - ASSIST - Search Pending Case For Add Supporting Document/Continue' is clicked on
+
+2018-12-13 00:03:45 - [TEST_STEP][PASSED] - delay: Delayed 20 second(s)
+
+2018-12-13 00:04:05 - [MESSAGE][PASSED] - Delayed 20 second(s)
+
+2018-12-13 00:04:05 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Login and Search Case For Workflow' successfully
+
+2018-12-13 00:04:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Form 3 Page' is clicked on
+
+2018-12-13 00:04:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Form 3 Page' is clicked on
+
+2018-12-13 00:04:06 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:04:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:04:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Resigned Page' is clicked on
+
+2018-12-13 00:04:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Resigned Page' is clicked on
+
+2018-12-13 00:04:08 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:04:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:04:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Uploading Page' is clicked on
+
+2018-12-13 00:04:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Approve)/Save  Continue in Uploading Page' is clicked on
+
+2018-12-13 00:04:11 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:04:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:04:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Reject)/Reject' is clicked on
+
+2018-12-13 00:04:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Reject)/Reject' is clicked on
+
+2018-12-13 00:04:15 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:04:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:04:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Reject)/Confirm' is clicked on
+
+2018-12-13 00:04:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Reject)/Confirm' is clicked on
+
+2018-12-13 00:04:18 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-13 00:04:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-13 00:04:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Reject)/Message This Case has been Rejected' is clicked on
+
+2018-12-13 00:04:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Reject)/Message This Case has been Rejected' is clicked on
+
+2018-12-13 00:04:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Reject)/Letter of update rejection' is clicked on
+
+2018-12-13 00:04:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Page_Form 3 EIS - Cessation as Employer/Page_Form 3 EIS - Cessation as Employer (Reject)/Letter of update rejection' is clicked on
+
+2018-12-13 00:04:24 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Template/Form 3 A - Cessation As Employer (Query)' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-12 23:59:17 - [TEST_SUITE][PASSED] - Form 3 EIS - Cessation as Employer: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Query)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

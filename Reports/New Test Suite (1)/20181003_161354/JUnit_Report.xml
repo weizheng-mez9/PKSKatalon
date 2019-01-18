@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite (1)" time="392" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite (1)" tests="1" failures="0" errors="0" time="392" timestamp="2018-10-03 16:13:57" hostname="Wei Zheng - 10.212.128.103" id="Test Suites/New Test Suite (1)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite (1)\\20181003_161354"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\Katalon Studio\\Perkeso Phase A\\Reports\\New Test Suite (1)\\20181003_161354\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Wei Zheng - 10.212.128.103"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="10.212.128.103"/>
+         <property name="sessionId" value="a3816f25-44a8-4308-9c0f-681e51bd0bff"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - BHD" classname="Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - BHD" status="PASSED">
+         <system-out><![CDATA[2018-10-03 16:13:58 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - BHD: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - BHD
+
+2018-10-03 16:13:58 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 1/Form 1 - Corporation - BHD' successfully
+
+2018-10-03 16:13:59 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 1/Form 1 - Corporation - BHD: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 1/Form 1 - Corporation - BHD
+
+2018-10-03 16:14:00 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-03 16:14:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-03 16:14:08 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-10-03 16:14:10 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/login' successfully
+
+2018-10-03 16:14:10 - [TEST_STEP][PASSED] - setText: Text 'johorotc1@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-10-03 16:14:11 - [MESSAGE][PASSED] - Text 'johorotc1@gmail.com' is set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Email Address'
+
+2018-10-03 16:14:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-10-03 16:14:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Next Button' is clicked on
+
+2018-10-03 16:14:11 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:12 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-10-03 16:14:12 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Final Object Repo/Login Page/Internal User/Password'
+
+2018-10-03 16:14:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-10-03 16:14:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/Login Page/Internal User/Login Button' is clicked on
+
+2018-10-03 16:14:15 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:16 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:16 - [TEST_STEP][PASSED] - Statement - Try: Delayed 2 second(s)
+
+2018-10-03 16:14:16 - [TEST_STEP][PASSED] - Statement - Checker = false: null
+
+2018-10-03 16:14:16 - [TEST_STEP][PASSED] - Statement - Checker = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementHasAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Landing Page/BM Detecting), "href", 20, OPTIONAL): Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-10-03 16:14:16 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/Landing Page/BM Detecting' has attribute 'href'
+
+2018-10-03 16:14:16 - [TEST_STEP][PASSED] - Statement - out.println(Checker): null
+
+2018-10-03 16:14:16 - [TEST_STEP][PASSED] - Statement - If (Checker == false): null
+
+2018-10-03 16:14:16 - [TEST_STEP][PASSED] - Statement - Else: null
+
+2018-10-03 16:14:16 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:14:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:14:18 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://assist2-uat.perkeso.gov.my/web/registration/registration' successfully
+
+2018-10-03 16:14:20 - [MESSAGE][PASSED] - Navigate to 'https://assist2-uat.perkeso.gov.my/web/registration/registration' successfully
+
+2018-10-03 16:14:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/AEC - No' is clicked on
+
+2018-10-03 16:14:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/AEC - No' is clicked on
+
+2018-10-03 16:14:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Business Entity' is clicked on
+
+2018-10-03 16:14:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Business Entity' is clicked on
+
+2018-10-03 16:14:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Businees Entity - Corporation' is clicked on
+
+2018-10-03 16:14:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Businees Entity - Corporation' is clicked on
+
+2018-10-03 16:14:22 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Business Entity' is clicked on
+
+2018-10-03 16:14:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Business Entity' is clicked on
+
+2018-10-03 16:14:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Business Entity - Berhad' is clicked on
+
+2018-10-03 16:14:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Business Entity - Berhad' is clicked on
+
+2018-10-03 16:14:24 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:25 - [TEST_STEP][PASSED] - setText: Text '123' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registration Number'
+
+2018-10-03 16:14:25 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registration Number'
+
+2018-10-03 16:14:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registred with SSM - Before Feb' is clicked on
+
+2018-10-03 16:14:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registred with SSM - Before Feb' is clicked on
+
+2018-10-03 16:14:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registered As a Branch - Yes' is clicked on
+
+2018-10-03 16:14:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Registered As a Branch - Yes' is clicked on
+
+2018-10-03 16:14:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Acknowledgement' is clicked on
+
+2018-10-03 16:14:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Acknowledgement' is clicked on
+
+2018-10-03 16:14:26 - [TEST_STEP][PASSED] - setText: Text 'perkeso' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry name'
+
+2018-10-03 16:14:26 - [MESSAGE][PASSED] - Text 'perkeso' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry name'
+
+2018-10-03 16:14:26 - [TEST_STEP][PASSED] - setText: Text 'perkeso1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address1'
+
+2018-10-03 16:14:26 - [MESSAGE][PASSED] - Text 'perkeso1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address1'
+
+2018-10-03 16:14:26 - [TEST_STEP][PASSED] - setText: Text 'perkeso2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address2'
+
+2018-10-03 16:14:26 - [MESSAGE][PASSED] - Text 'perkeso2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address2'
+
+2018-10-03 16:14:26 - [TEST_STEP][PASSED] - setText: Text 'perkeso3' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address3'
+
+2018-10-03 16:14:27 - [MESSAGE][PASSED] - Text 'perkeso3' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postal Address3'
+
+2018-10-03 16:14:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/State' is clicked on
+
+2018-10-03 16:14:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/State' is clicked on
+
+2018-10-03 16:14:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/State - Johor' is clicked on
+
+2018-10-03 16:14:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/State - Johor' is clicked on
+
+2018-10-03 16:14:28 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:29 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/City' is clicked on
+
+2018-10-03 16:14:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/City' is clicked on
+
+2018-10-03 16:14:29 - [TEST_STEP][PASSED] - setText: Text 'joh' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 810'
+
+2018-10-03 16:14:29 - [MESSAGE][PASSED] - Text 'joh' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 810'
+
+2018-10-03 16:14:29 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/City - Johor Bharu' is clicked on
+
+2018-10-03 16:14:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/City - Johor Bharu' is clicked on
+
+2018-10-03 16:14:31 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:32 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode' is clicked on
+
+2018-10-03 16:14:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode' is clicked on
+
+2018-10-03 16:14:32 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:33 - [TEST_STEP][PASSED] - setText: Text '810' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 810'
+
+2018-10-03 16:14:33 - [MESSAGE][PASSED] - Text '810' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 810'
+
+2018-10-03 16:14:33 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-03 16:14:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-03 16:14:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 81000' is clicked on
+
+2018-10-03 16:14:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Postcode - 81000' is clicked on
+
+2018-10-03 16:14:37 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:38 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/P.O.BOX'
+
+2018-10-03 16:14:38 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/P.O.BOX'
+
+2018-10-03 16:14:38 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Locked Bag No'
+
+2018-10-03 16:14:38 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Locked Bag No'
+
+2018-10-03 16:14:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/SOCSO Office Location' is clicked on
+
+2018-10-03 16:14:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/SOCSO Office Location' is clicked on
+
+2018-10-03 16:14:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/SOCSO Office Location - Pejabat PERKESO Negeri Johor' is clicked on
+
+2018-10-03 16:14:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/SOCSO Office Location - Pejabat PERKESO Negeri Johor' is clicked on
+
+2018-10-03 16:14:40 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:41 - [TEST_STEP][PASSED] - check: Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusrty Address Same As Postal Address' is checked
+
+2018-10-03 16:14:41 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusrty Address Same As Postal Address' is checked
+
+2018-10-03 16:14:41 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-03 16:14:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-03 16:14:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusry Address Same As Postal Address False' is clicked on
+
+2018-10-03 16:14:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusry Address Same As Postal Address False' is clicked on
+
+2018-10-03 16:14:44 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:45 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:45 - [TEST_STEP][PASSED] - setText: Text 'perkeso1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address1'
+
+2018-10-03 16:14:46 - [MESSAGE][PASSED] - Text 'perkeso1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address1'
+
+2018-10-03 16:14:46 - [TEST_STEP][PASSED] - setText: Text 'perkeso2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address2'
+
+2018-10-03 16:14:46 - [MESSAGE][PASSED] - Text 'perkeso2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address2'
+
+2018-10-03 16:14:46 - [TEST_STEP][PASSED] - setText: Text 'perkeso3' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address3'
+
+2018-10-03 16:14:46 - [MESSAGE][PASSED] - Text 'perkeso3' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Address3'
+
+2018-10-03 16:14:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry State' is clicked on
+
+2018-10-03 16:14:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry State' is clicked on
+
+2018-10-03 16:14:46 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:14:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:14:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry State - Johor' is clicked on
+
+2018-10-03 16:14:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry State - Johor' is clicked on
+
+2018-10-03 16:14:49 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:14:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:14:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Ciry' is clicked on
+
+2018-10-03 16:14:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Ciry' is clicked on
+
+2018-10-03 16:14:51 - [TEST_STEP][PASSED] - setText: Text 'joh' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Ciry - joh'
+
+2018-10-03 16:14:51 - [MESSAGE][PASSED] - Text 'joh' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Ciry - joh'
+
+2018-10-03 16:14:51 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:14:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:14:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industy State - Johor Bharu' is clicked on
+
+2018-10-03 16:14:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industy State - Johor Bharu' is clicked on
+
+2018-10-03 16:14:54 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:55 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusry PostCode' is clicked on
+
+2018-10-03 16:14:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indusry PostCode' is clicked on
+
+2018-10-03 16:14:56 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:57 - [TEST_STEP][PASSED] - setText: Text '810' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Insutry Post Code - 810'
+
+2018-10-03 16:14:57 - [MESSAGE][PASSED] - Text '810' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Insutry Post Code - 810'
+
+2018-10-03 16:14:57 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Insutry Post Code - 81000' is clicked on
+
+2018-10-03 16:14:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Insutry Post Code - 81000' is clicked on
+
+2018-10-03 16:14:58 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:14:59 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:14:59 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry P.O.BOX'
+
+2018-10-03 16:15:00 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry P.O.BOX'
+
+2018-10-03 16:15:00 - [TEST_STEP][PASSED] - setText: Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Locked Bag No'
+
+2018-10-03 16:15:00 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Locked Bag No'
+
+2018-10-03 16:15:00 - [TEST_STEP][PASSED] - setText: Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Telephone No'
+
+2018-10-03 16:15:00 - [MESSAGE][PASSED] - Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Telephone No'
+
+2018-10-03 16:15:00 - [TEST_STEP][PASSED] - setText: Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Mobile No'
+
+2018-10-03 16:15:00 - [MESSAGE][PASSED] - Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Mobile No'
+
+2018-10-03 16:15:00 - [TEST_STEP][PASSED] - setText: Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Fax No'
+
+2018-10-03 16:15:00 - [MESSAGE][PASSED] - Text '123456789' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Fax No'
+
+2018-10-03 16:15:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Code' is clicked on
+
+2018-10-03 16:15:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Code' is clicked on
+
+2018-10-03 16:15:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indudustry Code - Crops and Animal' is clicked on
+
+2018-10-03 16:15:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Indudustry Code - Crops and Animal' is clicked on
+
+2018-10-03 16:15:01 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:15:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:15:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Industry Code List' is clicked on
+
+2018-10-03 16:15:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Industry Code List' is clicked on
+
+2018-10-03 16:15:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Industry Code List - Growing of Maize' is clicked on
+
+2018-10-03 16:15:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Sub Industry Code List - Growing of Maize' is clicked on
+
+2018-10-03 16:15:03 - [TEST_STEP][PASSED] - setText: Text 'perkeso123@gmail.com' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Email'
+
+2018-10-03 16:15:04 - [MESSAGE][PASSED] - Text 'perkeso123@gmail.com' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Email'
+
+2018-10-03 16:15:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Method of Contribution Payment' is clicked on
+
+2018-10-03 16:15:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Method of Contribution Payment' is clicked on
+
+2018-10-03 16:15:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Method of Contribution Payment - Portal' is clicked on
+
+2018-10-03 16:15:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Method of Contribution Payment - Portal' is clicked on
+
+2018-10-03 16:15:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Servide Type' is clicked on
+
+2018-10-03 16:15:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Servide Type' is clicked on
+
+2018-10-03 16:15:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Servide Type - Professional Bodies' is clicked on
+
+2018-10-03 16:15:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Servide Type - Professional Bodies' is clicked on
+
+2018-10-03 16:15:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Venue' is clicked on
+
+2018-10-03 16:15:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Venue' is clicked on
+
+2018-10-03 16:15:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Venue -  PPN JOHOR' is clicked on
+
+2018-10-03 16:15:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Industry Venue -  PPN JOHOR' is clicked on
+
+2018-10-03 16:15:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Save  Continue' is clicked on
+
+2018-10-03 16:15:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 1/Save  Continue' is clicked on
+
+2018-10-03 16:15:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 1/Form 1 - Corporation - BHD' successfully
+
+2018-10-03 16:15:07 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible' successfully
+
+2018-10-03 16:15:07 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible
+
+2018-10-03 16:15:08 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:10 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Date Updater' successfully
+
+2018-10-03 16:15:10 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Date Updater: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Date Updater
+
+2018-10-03 16:15:10 - [TEST_STEP][PASSED] - Statement - TodayDate = new java.util.Date(): null
+
+2018-10-03 16:15:10 - [TEST_STEP][PASSED] - Statement - CurrentDateNoFilter = new java.text.SimpleDateFormat(): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentDateNoFilter.applyPattern("dd"): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentDate = CurrentDateNoFilter.format(TodayDate): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentDate = java.lang.Integer.parseInt(CurrentDate): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentDate = CurrentDate: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentDay = java.lang.Integer.parseInt(CurrentDate): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - aDayBefore = CurrentDay + 1: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - DayBefore = aDayBefore.toString(): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - OneDayBefore = DayBefore: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentDateNoFilter.applyPattern("MM"): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - monthContainerMatcher = java.lang.Integer.parseInt(CurrentDateNoFilter.format(TodayDate)): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - monthContainerMatcher = monthContainerMatcher - 1: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentMonth = monthContainerMatcher.toString(): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentMonth = CurrentMonth: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentDateNoFilter.applyPattern("yyyy"): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentYear = CurrentDateNoFilter.format(TodayDate): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - CurrentYear = CurrentYear: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - intCurrentYear = java.lang.Integer.parseInt(CurrentDateNoFilter.format(TodayDate)): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - eighteenYrsAgo = intCurrentYear - 18: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - eighteenYrsBeforeThisYr = eighteenYrsAgo.toString(): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - EighteenYrsBefore = eighteenYrsBeforeThisYr: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - fiftysevenYrsAgo = intCurrentYear - 57: null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - fiftysevenYrsBeforeThisYr = fiftysevenYrsAgo.toString(): null
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - Statement - FiftysevenYrsBefore = fiftysevenYrsBeforeThisYr: null
+
+2018-10-03 16:15:11 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Date Updater' successfully
+
+2018-10-03 16:15:11 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:15:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:15:12 - [TEST_STEP][PASSED] - Statement - CaseReferenceNo = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/RefNo Acquiring)): Text of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/RefNo Acquiring' is: 'CRN10201800122148'
+
+2018-10-03 16:15:12 - [MESSAGE][PASSED] - Text of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/RefNo Acquiring' is: 'CRN10201800122148'
+
+2018-10-03 16:15:12 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:15:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:15:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 16:15:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 16:15:13 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:15:14 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:15:14 - [TEST_STEP][PASSED] - setText: Text '010903091927' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 16:15:14 - [MESSAGE][PASSED] - Text '010903091927' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 16:15:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 16:15:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 16:15:15 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:17 - [TEST_STEP][PASSED] - setText: Text 'Automate001 eligible 1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 16:15:17 - [MESSAGE][PASSED] - Text 'Automate001 eligible 1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 16:15:17 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 16:15:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 16:15:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 16:15:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - Statement - CurrentMonth = CurrentMonth: null
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - Statement - selectMonth = new com.kms.katalon.core.testobject.TestObject(): null
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - Statement - selectMonth.addProperty("xpath", EQUALS, "//body/div/div/div/select/option[@value='" + CurrentMonth + "']", true): null
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 16:15:20 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 16:15:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - Statement - Eyearsbf = EighteenYrsBefore: null
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - Statement - selectYear = new com.kms.katalon.core.testobject.TestObject(): null
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - Statement - selectYear.addProperty("xpath", EQUALS, "//div/div/div/select/option[@value='" + Eyearsbf + "']", true): null
+
+2018-10-03 16:15:20 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 16:15:21 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 16:15:21 - [TEST_STEP][PASSED] - Statement - UpdatedSelectDate = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date), "xpath", "equals", "//body/div/table/tbody/tr/td/a[text()="" + CurrentDate + ""]", true): Modify property of object successfully
+
+2018-10-03 16:15:21 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:15:21 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-03 16:15:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-03 16:15:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 16:15:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 16:15:24 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 16:15:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 16:15:27 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:29 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 16:15:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 16:15:29 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:15:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:15:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 16:15:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 16:15:30 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 16:15:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 16:15:33 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:15:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:15:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 16:15:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 16:15:34 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 16:15:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 16:15:36 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 16:15:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 16:15:39 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-10-03 16:15:45 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-10-03 16:15:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 16:15:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 16:15:45 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 16:15:49 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 16:15:49 - [TEST_STEP][PASSED] - setText: Text '620904059691' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 16:15:49 - [MESSAGE][PASSED] - Text '620904059691' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 16:15:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 16:15:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 16:15:50 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:52 - [TEST_STEP][PASSED] - setText: Text 'Automate001 eligible 2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 16:15:52 - [MESSAGE][PASSED] - Text 'Automate001 eligible 2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 16:15:52 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 16:15:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 16:15:54 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:15:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:15:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 16:15:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 16:15:57 - [TEST_STEP][PASSED] - Statement - selectMonth = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectMonth, "xpath", "equals", "//body/div/div/div/select/option[@value="" + CurrentMonth + ""]", true): Modify property of object successfully
+
+2018-10-03 16:15:57 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:15:57 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 16:15:57 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 16:15:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 16:15:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 16:15:57 - [TEST_STEP][PASSED] - Statement - selectYear = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectYear, "xpath", "equals", "//div/div/div/select/option[@value="" + FiftysevenYrsBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 16:15:57 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:15:57 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 16:15:58 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 16:15:58 - [TEST_STEP][PASSED] - Statement - UpdatedSelectDate = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date), "xpath", "equals", "//body/div/table/tbody/tr/td/a[text()="" + OneDayBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 16:15:58 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:15:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 16:15:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 16:15:58 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:16:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:16:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 16:16:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 16:16:01 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:16:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:16:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 16:16:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 16:16:03 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:16:04 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:16:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 16:16:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 16:16:04 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:16:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:16:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 16:16:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 16:16:07 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:16:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:16:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 16:16:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 16:16:08 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:16:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:16:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 16:16:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 16:16:10 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:16:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:16:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 16:16:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 16:16:13 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 16:16:17 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 16:16:17 - [TEST_STEP][PASSED] - delay: Delayed 30 second(s)
+
+2018-10-03 16:16:47 - [MESSAGE][PASSED] - Delayed 30 second(s)
+
+2018-10-03 16:16:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 16:16:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 16:16:47 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 16:16:51 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 16:16:51 - [TEST_STEP][PASSED] - setText: Text '000209039145' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 16:16:51 - [MESSAGE][PASSED] - Text '000209039145' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 16:16:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 16:16:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 16:16:52 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:16:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:16:54 - [TEST_STEP][PASSED] - setText: Text 'Automate001 not eligible 1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 16:16:54 - [MESSAGE][PASSED] - Text 'Automate001 not eligible 1' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 16:16:54 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:16:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:16:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 16:16:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 16:16:56 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:16:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:16:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 16:16:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 16:16:59 - [TEST_STEP][PASSED] - Statement - selectMonth = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectMonth, "xpath", "equals", "//body/div/div/div/select/option[@value="" + CurrentMonth + ""]", true): Modify property of object successfully
+
+2018-10-03 16:16:59 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:16:59 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 16:16:59 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 16:16:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 16:16:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 16:16:59 - [TEST_STEP][PASSED] - Statement - selectYear = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectYear, "xpath", "equals", "//div/div/div/select/option[@value="" + EighteenYrsBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 16:16:59 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:16:59 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 16:17:00 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 16:17:00 - [TEST_STEP][PASSED] - Statement - UpdatedSelectDate = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date), "xpath", "equals", "//body/div/table/tbody/tr/td/a[text()="" + OneDayBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 16:17:00 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:17:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 16:17:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 16:17:00 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 16:17:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 16:17:03 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 16:17:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 16:17:05 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:17:06 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:17:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 16:17:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 16:17:06 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 16:17:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 16:17:09 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:17:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:17:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 16:17:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 16:17:10 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 16:17:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 16:17:12 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 16:17:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 16:17:15 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-10-03 16:17:21 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-10-03 16:17:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 16:17:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Add Employee Button' is clicked on
+
+2018-10-03 16:17:21 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 16:17:25 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 16:17:25 - [TEST_STEP][PASSED] - setText: Text '600203039154' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 16:17:25 - [MESSAGE][PASSED] - Text '600203039154' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/NRIC Input'
+
+2018-10-03 16:17:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 16:17:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/button for search for IC' is clicked on
+
+2018-10-03 16:17:25 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:27 - [TEST_STEP][PASSED] - setText: Text 'Automate001 not eligible 2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 16:17:28 - [MESSAGE][PASSED] - Text 'Automate001 not eligible 2' is set on object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Employee Name Input'
+
+2018-10-03 16:17:28 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 16:17:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DatePicker Pop Up' is clicked on
+
+2018-10-03 16:17:30 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 16:17:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Month' is clicked on
+
+2018-10-03 16:17:33 - [TEST_STEP][PASSED] - Statement - selectMonth = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectMonth, "xpath", "equals", "//body/div/div/div/select/option[@value="" + CurrentMonth + ""]", true): Modify property of object successfully
+
+2018-10-03 16:17:33 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:17:33 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 16:17:33 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 16:17:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 16:17:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Year' is clicked on
+
+2018-10-03 16:17:33 - [TEST_STEP][PASSED] - Statement - selectYear = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(selectYear, "xpath", "equals", "//div/div/div/select/option[@value="" + FiftysevenYrsBefore + ""]", true): Modify property of object successfully
+
+2018-10-03 16:17:33 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:17:33 - [TEST_STEP][PASSED] - click: Object: '' is clicked on
+
+2018-10-03 16:17:34 - [MESSAGE][PASSED] - Object: '' is clicked on
+
+2018-10-03 16:17:34 - [TEST_STEP][PASSED] - Statement - UpdatedSelectDate = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.modifyObjectProperty(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date), "xpath", "equals", "//body/div/table/tbody/tr/td/a[text()="" + CurrentDate + ""]", true): Modify property of object successfully
+
+2018-10-03 16:17:34 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2018-10-03 16:17:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 16:17:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/DOB Date' is clicked on
+
+2018-10-03 16:17:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 16:17:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/EmploymentStartDate Pop Up' is clicked on
+
+2018-10-03 16:17:35 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 16:17:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Month' is clicked on
+
+2018-10-03 16:17:37 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:17:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:17:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 16:17:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employement Startdate Month' is clicked on
+
+2018-10-03 16:17:38 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 16:17:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment StartDate Year' is clicked on
+
+2018-10-03 16:17:41 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-03 16:17:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-03 16:17:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 16:17:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Select Socso Employment Startdate Year' is clicked on
+
+2018-10-03 16:17:42 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 16:17:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Socso Employment Start Date Day' is clicked on
+
+2018-10-03 16:17:44 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 16:17:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save Button for Add Employee' is clicked on
+
+2018-10-03 16:17:46 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save and Continue Form 2' is clicked on
+
+2018-10-03 16:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Form 2/Save and Continue Form 2' is clicked on
+
+2018-10-03 16:17:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Form 2/Add 2 Eligible 2 Not Eligible' successfully
+
+2018-10-03 16:17:54 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Flow of New Registration/Third Screen - Upload Supporting Doc - Preview' successfully
+
+2018-10-03 16:17:54 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Flow of New Registration/Third Screen - Upload Supporting Doc - Preview: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Flow of New Registration/Third Screen - Upload Supporting Doc - Preview
+
+2018-10-03 16:17:55 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-10-03 16:17:55 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-10-03 16:17:55 - [TEST_STEP][PASSED] - Statement - CaseReferenceNo = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/RefNo Acquiring)): Text of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/RefNo Acquiring' is: 'CRN10201800122148'
+
+2018-10-03 16:17:55 - [MESSAGE][PASSED] - Text of object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/RefNo Acquiring' is: 'CRN10201800122148'
+
+2018-10-03 16:17:55 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:17:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:17:57 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Setter' successfully
+
+2018-10-03 16:17:57 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Setter: Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Setter
+
+2018-10-03 16:17:57 - [TEST_STEP][PASSED] - Statement - RefNoOldFile = new java.io.File(C://KatalonReference.txt): null
+
+2018-10-03 16:17:57 - [TEST_STEP][PASSED] - Statement - RefNoOldFile.delete(): null
+
+2018-10-03 16:17:57 - [TEST_STEP][PASSED] - Statement - RefNo = new java.io.File(C://KatalonReference.txt): null
+
+2018-10-03 16:17:57 - [TEST_STEP][PASSED] - Statement - RefNo.append(CaseReferenceNo): null
+
+2018-10-03 16:17:57 - [TEST_STEP][PASSED] - Statement - out.println("
+
+
+" + CaseReferenceNo + "
+
+
+"): null
+
+2018-10-03 16:17:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Common/Reference Number Setter' successfully
+
+2018-10-03 16:17:57 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Save n Continue in SIP Employee Listing Page' is clickable
+
+2018-10-03 16:17:57 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Save n Continue in SIP Employee Listing Page' is clickable
+
+2018-10-03 16:17:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Save n Continue in SIP Employee Listing Page' is clicked on
+
+2018-10-03 16:18:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Save n Continue in SIP Employee Listing Page' is clicked on
+
+2018-10-03 16:18:03 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-10-03 16:18:09 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-10-03 16:18:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Add Document Button' is clicked on
+
+2018-10-03 16:18:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Add Document Button' is clicked on
+
+2018-10-03 16:18:09 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clickable
+
+2018-10-03 16:18:15 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clickable
+
+2018-10-03 16:18:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clicked on
+
+2018-10-03 16:18:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clicked on
+
+2018-10-03 16:18:16 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:18:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:18:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Select to Upload Form 1' is clicked on
+
+2018-10-03 16:18:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Select to Upload Form 1' is clicked on
+
+2018-10-03 16:18:18 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:18:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:18:20 - [TEST_STEP][PASSED] - uploadFile: File 'C:\Users\Public\Pictures\Sample Pictures\Act.jpg' sent to object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Upload File Adding'
+
+2018-10-03 16:18:21 - [MESSAGE][PASSED] - File 'C:\Users\Public\Pictures\Sample Pictures\Act.jpg' sent to object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Upload File Adding'
+
+2018-10-03 16:18:21 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-10-03 16:18:26 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-10-03 16:18:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Inner Form Add Document Button' is clicked on
+
+2018-10-03 16:18:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Inner Form Add Document Button' is clicked on
+
+2018-10-03 16:18:31 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-03 16:18:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-03 16:18:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Add Document Button' is clicked on
+
+2018-10-03 16:18:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Add Document Button' is clicked on
+
+2018-10-03 16:18:35 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clickable
+
+2018-10-03 16:18:42 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clickable
+
+2018-10-03 16:18:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clicked on
+
+2018-10-03 16:18:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clicked on
+
+2018-10-03 16:18:42 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:18:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:18:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Select to Upload Form 2' is clicked on
+
+2018-10-03 16:18:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Select to Upload Form 2' is clicked on
+
+2018-10-03 16:18:45 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:18:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:18:47 - [TEST_STEP][PASSED] - uploadFile: File 'C:\Users\Public\Pictures\Sample Pictures\Act.jpg' sent to object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Upload File Adding'
+
+2018-10-03 16:18:47 - [MESSAGE][PASSED] - File 'C:\Users\Public\Pictures\Sample Pictures\Act.jpg' sent to object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Upload File Adding'
+
+2018-10-03 16:18:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Inner Form Add Document Button' is clicked on
+
+2018-10-03 16:18:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Inner Form Add Document Button' is clicked on
+
+2018-10-03 16:18:48 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-10-03 16:18:52 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-03 16:18:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Add Document Button' is clicked on
+
+2018-10-03 16:18:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Add Document Button' is clicked on
+
+2018-10-03 16:18:58 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clickable
+
+2018-10-03 16:19:03 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clickable
+
+2018-10-03 16:19:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clicked on
+
+2018-10-03 16:19:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clicked on
+
+2018-10-03 16:19:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Select to Upload Borang SIP 1' is clicked on
+
+2018-10-03 16:19:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Select to Upload Borang SIP 1' is clicked on
+
+2018-10-03 16:19:05 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:19:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:19:07 - [TEST_STEP][PASSED] - uploadFile: File 'C:\Users\Public\Pictures\Sample Pictures\Act.jpg' sent to object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Upload File Adding'
+
+2018-10-03 16:19:07 - [MESSAGE][PASSED] - File 'C:\Users\Public\Pictures\Sample Pictures\Act.jpg' sent to object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Upload File Adding'
+
+2018-10-03 16:19:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Inner Form Add Document Button' is clicked on
+
+2018-10-03 16:19:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Inner Form Add Document Button' is clicked on
+
+2018-10-03 16:19:12 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-10-03 16:19:17 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-10-03 16:19:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Add Document Button' is clicked on
+
+2018-10-03 16:19:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Add Document Button' is clicked on
+
+2018-10-03 16:19:17 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clickable
+
+2018-10-03 16:19:24 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clickable
+
+2018-10-03 16:19:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clicked on
+
+2018-10-03 16:19:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Supporting Doc Please Select Drop Down' is clicked on
+
+2018-10-03 16:19:24 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-03 16:19:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-03 16:19:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Select to Upload Borang SIP 2' is clicked on
+
+2018-10-03 16:19:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Select to Upload Borang SIP 2' is clicked on
+
+2018-10-03 16:19:28 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:19:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:19:30 - [TEST_STEP][PASSED] - uploadFile: File 'C:\Users\Public\Pictures\Sample Pictures\Act.jpg' sent to object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Upload File Adding'
+
+2018-10-03 16:19:30 - [MESSAGE][PASSED] - File 'C:\Users\Public\Pictures\Sample Pictures\Act.jpg' sent to object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Upload File Adding'
+
+2018-10-03 16:19:30 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-10-03 16:19:35 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-10-03 16:19:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Inner Form Add Document Button' is clicked on
+
+2018-10-03 16:19:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Inner Form Add Document Button' is clicked on
+
+2018-10-03 16:19:41 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-10-03 16:19:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-03 16:19:44 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Save n Continue in Uploading Supporting Doc Page' is clickable
+
+2018-10-03 16:19:44 - [MESSAGE][PASSED] - Object 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Save n Continue in Uploading Supporting Doc Page' is clickable
+
+2018-10-03 16:19:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Save n Continue in Uploading Supporting Doc Page' is clicked on
+
+2018-10-03 16:19:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Save n Continue in Uploading Supporting Doc Page' is clicked on
+
+2018-10-03 16:19:45 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Flow of New Registration/Third Screen - Upload Supporting Doc - Preview' successfully
+
+2018-10-03 16:19:45 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Submit and Screenshot/Submit Registration and Screenshot' successfully
+
+2018-10-03 16:19:45 - [TEST_CASE][PASSED] - Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Submit and Screenshot/Submit Registration and Screenshot: Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Submit and Screenshot/Submit Registration and Screenshot
+
+2018-10-03 16:19:45 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-10-03 16:19:51 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-10-03 16:19:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Preview Submit Button' is clicked on
+
+2018-10-03 16:19:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Preview Submit Button' is clicked on
+
+2018-10-03 16:19:56 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-03 16:19:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-03 16:19:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Preview Submit - Confirm' is clicked on
+
+2018-10-03 16:20:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Final Object Repo/New Registration - Registration Module Pages/Third Screen - Upload Supporting Doc- Preview/Preview Submit - Confirm' is clicked on
+
+2018-10-03 16:20:04 - [TEST_STEP][PASSED] - delay: Delayed 15 second(s)
+
+2018-10-03 16:20:19 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - driver = com.kms.katalon.core.webui.driver.DriverFactory.getWebDriver(): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - driver.manage().timeouts().implicitlyWait(10, SECONDS): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PresavePath = KatalonScreenshots: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - pathPrefix = "C:\Users\Public\Pictures\Sample Pictures\Katalon Screenshots\Automate Ending Screen": null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - finalPath = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - scrFile = driver.getScreenshotAs(FILE): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(PresavePath): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = 0: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - If (PreSaveFile.exists()): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - While (PreSaveFile.exists()): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - counter = counter + 1: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - PreSaveFile = new java.io.File(((pathPrefix + java.lang.Integer.toString(counter)) + .png)): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - finalPath = pathPrefix + java.lang.Integer.toString(counter) + ".png": null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - SaveFile = new java.io.File(finalPath): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - Try: null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - org.apache.commons.io.FileUtils.copyFile(scrFile, SaveFile): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - Statement - out.println("file kept"): null
+
+2018-10-03 16:20:19 - [TEST_STEP][PASSED] - delay: Delayed 10 second(s)
+
+2018-10-03 16:20:29 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2018-10-03 16:20:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Final Aug 2018 - PKS Automation/Registration Module/New Registration/Submit and Screenshot/Submit Registration and Screenshot' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-03 16:13:57 - [TEST_SUITE][PASSED] - New Test Suite (1): Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Critical Path/New Registration/Corporation - BHD]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

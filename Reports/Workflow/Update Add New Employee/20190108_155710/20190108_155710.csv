@@ -1,0 +1,116 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Update Add New Employee,Chrome 71.0.3578.98,,2019-01-08 15:57:12,2019-01-08 17:22:11,1h - 24m - 58.282s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Add Employee and Set Incomplete ( OTC - PKRBO),Chrome 71.0.3578.98,(Extra TC) this is added as an additional TC and will not show up in squash,2019-01-08 15:57:13,2019-01-08 16:05:14,8m - 0.575s,PASSED
+openBrowser,Chrome 71.0.3578.98,,2019-01-08 15:57:14,2019-01-08 15:57:18,4.198s,PASSED
+navigateToUrl,Chrome 71.0.3578.98,,2019-01-08 15:57:18,2019-01-08 15:57:19,1.372s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 15:57:19,2019-01-08 15:57:20,1.087s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 15:57:20,2019-01-08 15:57:22,2.011s,PASSED
+setText,Chrome 71.0.3578.98,,2019-01-08 15:57:22,2019-01-08 15:57:23,0.438s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 15:57:23,2019-01-08 15:57:23,0.241s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 15:57:23,2019-01-08 15:57:25,2.003s,PASSED
+setText,Chrome 71.0.3578.98,,2019-01-08 15:57:25,2019-01-08 15:57:26,1.132s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 15:57:26,2019-01-08 15:57:28,2.002s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 15:57:28,2019-01-08 15:57:28,0.172s,PASSED
+Statement - Try,Chrome 71.0.3578.98,,2019-01-08 15:57:28,2019-01-08 15:57:28,0.003s,PASSED
+Statement - Catch (Exception e),Chrome 71.0.3578.98,,2019-01-08 15:57:28,2019-01-08 15:57:28,0.097s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 15:57:28,2019-01-08 15:57:33,5.004s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 15:57:33,2019-01-08 15:57:34,0.220s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 15:57:34,2019-01-08 15:57:35,1.210s,PASSED
+navigateToUrl,Chrome 71.0.3578.98,,2019-01-08 15:57:35,2019-01-08 15:57:36,0.806s,PASSED
+mouseOver,Chrome 71.0.3578.98,,2019-01-08 15:57:36,2019-01-08 15:57:36,0.166s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 15:57:36,2019-01-08 15:57:38,2.003s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 15:57:38,2019-01-08 15:57:39,0.893s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 15:57:39,2019-01-08 15:57:41,2.002s,PASSED
+setText,Chrome 71.0.3578.98,,2019-01-08 15:57:41,2019-01-08 15:57:41,0.315s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 15:57:41,2019-01-08 15:57:43,2.002s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 15:57:43,2019-01-08 15:57:43,0.220s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 15:57:43,2019-01-08 15:57:47,4.003s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 15:57:47,2019-01-08 15:57:50,2.602s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 15:57:50,2019-01-08 16:01:08,3m - 18.184s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:01:08,2019-01-08 16:01:12,4.001s,PASSED
+Statement - CaseReferenceNo = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Final Object Repo/Page_Update Add New Employee - ASSIST/RefNo)),Chrome 71.0.3578.98,,2019-01-08 16:01:12,2019-01-08 16:01:12,0.102s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:01:12,2019-01-08 16:01:18,5.470s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:01:18,2019-01-08 16:01:23,5.000s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:01:23,2019-01-08 16:01:23,0.177s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:01:23,2019-01-08 16:01:25,2.001s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:01:25,2019-01-08 16:01:25,0.203s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:01:25,2019-01-08 16:01:29,4.001s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:01:29,2019-01-08 16:01:32,3.282s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:01:32,2019-01-08 16:01:36,4.004s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:01:36,2019-01-08 16:01:36,0.209s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:01:36,2019-01-08 16:01:40,4.001s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:01:40,2019-01-08 16:01:41,0.186s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:01:41,2019-01-08 16:01:45,4.001s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:01:45,2019-01-08 16:01:45,0.180s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:01:45,2019-01-08 16:02:15,30.004s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:02:15,2019-01-08 16:02:41,25.948s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:02:41,2019-01-08 16:02:42,1.316s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:02:42,2019-01-08 16:03:31,48.742s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:03:31,2019-01-08 16:03:32,0.967s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:32,2019-01-08 16:03:34,2.002s,PASSED
+setText,Chrome 71.0.3578.98,,2019-01-08 16:03:34,2019-01-08 16:03:34,0.364s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:03:34,2019-01-08 16:03:34,0.190s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:34,2019-01-08 16:03:36,2.001s,PASSED
+setText,Chrome 71.0.3578.98,,2019-01-08 16:03:36,2019-01-08 16:03:37,0.284s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:37,2019-01-08 16:03:39,2.001s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:03:39,2019-01-08 16:03:39,0.161s,PASSED
+Statement - Try,Chrome 71.0.3578.98,,2019-01-08 16:03:39,2019-01-08 16:03:39,0.001s,PASSED
+Statement - Catch (Exception e),Chrome 71.0.3578.98,,2019-01-08 16:03:39,2019-01-08 16:03:39,0.056s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:39,2019-01-08 16:03:44,5.002s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:03:44,2019-01-08 16:03:44,0.177s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:44,2019-01-08 16:03:46,2.002s,PASSED
+setText,Chrome 71.0.3578.98,,2019-01-08 16:03:46,2019-01-08 16:03:46,0.348s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:46,2019-01-08 16:03:48,2.002s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:03:48,2019-01-08 16:03:49,0.203s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:49,2019-01-08 16:03:51,2.001s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:03:51,2019-01-08 16:03:54,3.524s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:54,2019-01-08 16:03:56,2.003s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:56,2019-01-08 16:03:58,2.002s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:03:58,2019-01-08 16:03:58,0.216s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:03:58,2019-01-08 16:04:02,4.002s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:04:02,2019-01-08 16:04:06,3.200s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:04:06,2019-01-08 16:04:10,4.002s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:04:10,2019-01-08 16:04:10,0.221s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:04:10,2019-01-08 16:04:14,4.001s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:04:14,2019-01-08 16:04:14,0.159s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:04:14,2019-01-08 16:04:18,4.001s,PASSED
+click,Chrome 71.0.3578.98,,2019-01-08 16:04:18,2019-01-08 16:04:18,0.182s,PASSED
+delay,Chrome 71.0.3578.98,,2019-01-08 16:04:18,2019-01-08 16:04:48,30.003s,PASSED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:04:48,2019-01-08 16:05:14,25.482s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (Employer - RO Approve),Chrome 71.0.3578.98,,2019-01-08 16:05:14,2019-01-08 16:13:57,8m - 43.093s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:05:14,2019-01-08 16:13:56,8m - 42.254s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (Employer - RO Query - OTC Upload Pending Case - RO Approve),Chrome 71.0.3578.98,,2019-01-08 16:13:57,2019-01-08 16:22:35,8m - 38.279s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:13:57,2019-01-08 16:22:35,8m - 37.820s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (Employer - RO Under Enforcement),Chrome 71.0.3578.98,,2019-01-08 16:22:35,2019-01-08 16:31:24,8m - 49.057s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:22:36,2019-01-08 16:31:24,8m - 48.109s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (OTC - PKR BO -  RO Approve),Chrome 71.0.3578.98,,2019-01-08 16:31:24,2019-01-08 16:37:34,6m - 9.984s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:31:24,2019-01-08 16:37:34,6m - 9.637s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (OTC - PKR BO -  RO Under Enforcement),Chrome 71.0.3578.98,,2019-01-08 16:37:34,2019-01-08 16:43:44,6m - 9.702s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:37:34,2019-01-08 16:43:44,6m - 9.327s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (OTC - PKR BO - RO Query - PKR BO Upload Pending Case - RO Approve),Chrome 71.0.3578.98,,2019-01-08 16:43:44,2019-01-08 16:49:51,6m - 6.871s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:43:44,2019-01-08 16:49:51,6m - 6.510s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (OTC - RO Approve),Chrome 71.0.3578.98,,2019-01-08 16:49:51,2019-01-08 16:55:58,6m - 7.676s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:49:51,2019-01-08 16:55:58,6m - 7.346s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (OTC - RO Query - OTC Upload Pending Case - RO Approve),Chrome 71.0.3578.98,,2019-01-08 16:55:58,2019-01-08 16:57:28,1m - 30.145s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:55:59,2019-01-08 16:57:28,1m - 29.281s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (OTC - RO Under Enforcement),Chrome 71.0.3578.98,,2019-01-08 16:57:28,2019-01-08 17:03:36,6m - 7.676s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 16:57:29,2019-01-08 17:03:36,6m - 7.362s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (PKR BO - RO Approve),Chrome 71.0.3578.98,,2019-01-08 17:03:36,2019-01-08 17:09:44,6m - 8.135s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 17:03:37,2019-01-08 17:09:44,6m - 7.112s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (PKR BO - RO Query - OTC Upload Pending Case - RO Approve),Chrome 71.0.3578.98,,2019-01-08 17:09:44,2019-01-08 17:16:01,6m - 16.477s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 17:09:45,2019-01-08 17:16:01,6m - 16.084s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Add New Employee/Special Case (PKR BO - RO Under Enforcement),Chrome 71.0.3578.98,,2019-01-08 17:16:01,2019-01-08 17:22:11,6m - 9.966s,FAILED
+callTestCase,Chrome 71.0.3578.98,,2019-01-08 17:16:01,2019-01-08 17:22:10,6m - 9.181s,FAILED

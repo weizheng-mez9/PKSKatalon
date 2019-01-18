@@ -1,0 +1,66 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Update Employer Information,Firefox 63.0,,2018-11-15 10:09:21,2018-11-15 11:12:28,1h - 3m - 6.407s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/Employer - UO (Approve),Firefox 63.0,,2018-11-15 10:09:22,2018-11-15 10:13:10,3m - 48.190s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:09:22,2018-11-15 10:10:41,1m - 19.046s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:10:41,2018-11-15 10:13:10,2m - 28.517s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/Employer - UO (Query),Firefox 63.0,,2018-11-15 10:13:10,2018-11-15 10:18:56,5m - 45.807s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:13:10,2018-11-15 10:14:26,1m - 15.677s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:14:26,2018-11-15 10:18:56,4m - 29.871s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/Employer - UO (Reject),Firefox 63.0,,2018-11-15 10:18:56,2018-11-15 10:22:27,3m - 30.995s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:18:56,2018-11-15 10:20:19,1m - 23.281s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:20:19,2018-11-15 10:22:27,2m - 7.512s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/Employer - UO (Under enforcement),Firefox 63.0,,2018-11-15 10:22:27,2018-11-15 10:25:56,3m - 29.181s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:22:27,2018-11-15 10:23:45,1m - 18.461s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:23:45,2018-11-15 10:25:56,2m - 10.542s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/OTC - UO (Approve),Firefox 63.0,,2018-11-15 10:25:56,2018-11-15 10:29:29,3m - 32.543s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:25:56,2018-11-15 10:27:00,1m - 4.290s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:27:00,2018-11-15 10:29:29,2m - 28.014s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/OTC - UO (Query),Firefox 63.0,,2018-11-15 10:29:29,2018-11-15 10:35:08,5m - 39.685s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:29:29,2018-11-15 10:30:31,1m - 2.413s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:30:31,2018-11-15 10:35:08,4m - 37.012s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/OTC - UO (Reject),Firefox 63.0,,2018-11-15 10:35:08,2018-11-15 10:38:17,3m - 8.930s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:35:08,2018-11-15 10:36:12,1m - 3.260s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:36:12,2018-11-15 10:38:17,2m - 5.459s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/OTC - UO (Under enforcement),Firefox 63.0,,2018-11-15 10:38:17,2018-11-15 10:41:30,3m - 12.811s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:38:17,2018-11-15 10:39:22,1m - 4.719s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:39:22,2018-11-15 10:41:30,2m - 7.884s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PAU - UO (Approve),Firefox 63.0,,2018-11-15 10:41:30,2018-11-15 10:44:58,3m - 27.628s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:41:30,2018-11-15 10:42:35,1m - 4.635s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:42:35,2018-11-15 10:44:58,2m - 22.767s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PAU - UO (Query),Firefox 63.0,,2018-11-15 10:44:58,2018-11-15 10:50:25,5m - 27.273s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:44:58,2018-11-15 10:45:57,58.866s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:45:57,2018-11-15 10:50:25,4m - 28.199s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PAU - UO (Reject),Firefox 63.0,,2018-11-15 10:50:25,2018-11-15 10:53:35,3m - 9.939s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:50:25,2018-11-15 10:51:27,1m - 2.415s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:51:27,2018-11-15 10:53:35,2m - 7.327s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PAU - UO (Under enforcement),Firefox 63.0,,2018-11-15 10:53:35,2018-11-15 10:56:44,3m - 9.300s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:53:35,2018-11-15 10:54:36,1m - 1.100s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:54:36,2018-11-15 10:56:44,2m - 8.034s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PKRBO - UO (Approve),Firefox 63.0,,2018-11-15 10:56:44,2018-11-15 11:00:09,3m - 25.100s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:56:44,2018-11-15 10:57:46,1m - 1.600s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 10:57:46,2018-11-15 11:00:09,2m - 23.325s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PKRBO - UO (Query),Firefox 63.0,,2018-11-15 11:00:09,2018-11-15 11:05:51,5m - 42.205s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 11:00:09,2018-11-15 11:01:14,1m - 4.743s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 11:01:14,2018-11-15 11:05:51,4m - 37.280s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PKRBO - UO (Reject),Firefox 63.0,,2018-11-15 11:05:51,2018-11-15 11:09:08,3m - 16.942s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 11:05:52,2018-11-15 11:06:56,1m - 4.761s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 11:06:56,2018-11-15 11:09:08,2m - 11.935s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Update Employer Information/PKRBO - UO (Under enforcement),Firefox 63.0,,2018-11-15 11:09:08,2018-11-15 11:12:26,3m - 18.093s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 11:09:09,2018-11-15 11:10:13,1m - 3.992s,PASSED
+callTestCase,Firefox 63.0,,2018-11-15 11:10:13,2018-11-15 11:12:26,2m - 13.920s,PASSED

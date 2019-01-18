@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save  Continue Button</name>
+   <tag></tag>
+   <elementGuidId>0a71139a-54dc-45f2-a1f7-19912b14afcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@targets = 'baseMsgDivId' and @class = 'btn btn-lg blueBtn col-md-2 pull-right browserIdBtn' and (contains(text(), 'SAVE &amp; CONTINUE') or contains(., 'SAVE &amp; CONTINUE'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formid</name>
+      <type>Main</type>
+      <value>_searchforemployer_WAR_registrationportlet_outerForm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assist2-uat.perkeso.gov.my/web/registration/update/update-add-new-employee?p_auth=uyGQ2dJJ&amp;p_p_id=searchforemployer_WAR_registrationportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_searchforemployer_WAR_registrationportlet_javax.portlet.action=exeAction&amp;_searchforemployer_WAR_registrationportlet_regActionKey=101&amp;_searchforemployer_WAR_registrationportlet_cmd=updateAddNewEmployeeSaveContinueId&amp;_searchforemployer_WAR_registrationportlet_browserIdKey=1536030529868&amp;_searchforemployer_WAR_registrationportlet_mvcPath=%2Fapps%2Freg%2Fupdate_add_new_employee%2Fupdate_add_new_employee_form.jsp&amp;_searchforemployer_WAR_registrationportlet_regViewKey=150&amp;_searchforemployer_WAR_registrationportlet_regSectionKey=201&amp;_searchforemployer_WAR_registrationportlet_employerIdKey=10068888</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>targets</name>
+      <type>Main</type>
+      <value>baseMsgDivId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg blueBtn col-md-2 pull-right browserIdBtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>newegfSubmit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SAVE &amp; CONTINUE</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@targets = 'baseMsgDivId' and @class = 'btn btn-lg blueBtn col-md-2 pull-right browserIdBtn' and (not(contains(text(), 'SAVE &amp; CONTINUE')) or not(contains(., 'SAVE &amp; CONTINUE')))]</value>
+   </webElementProperties>
+</WebElementEntity>

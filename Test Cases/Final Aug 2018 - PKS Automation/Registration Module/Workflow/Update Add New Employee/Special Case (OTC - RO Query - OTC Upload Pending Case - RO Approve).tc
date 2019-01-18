@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Special Case (OTC - RO Query - OTC Upload Pending Case - RO Approve)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b1108b7-2f1d-43c9-9582-5b984d6e7494</testCaseGuid>
+</TestCaseEntity>

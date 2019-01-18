@@ -1,0 +1,46 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Form 3 EIS - Cessation as Employer,Chrome 70.0.3538.110,,2018-11-28 16:59:44,2018-11-28 17:54:25,54m - 41.317s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Employer to UO (Approve),Chrome 70.0.3538.110,,2018-11-28 16:59:45,2018-11-28 17:11:34,11m - 49.182s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 16:59:45,2018-11-28 17:09:47,10m - 2.372s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:09:47,2018-11-28 17:11:34,1m - 46.469s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Employer to UO (Query),Chrome 70.0.3538.110,,2018-11-28 17:11:34,2018-11-28 17:16:33,4m - 59.063s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:11:35,2018-11-28 17:12:39,1m - 4.322s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:12:39,2018-11-28 17:16:33,3m - 53.465s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Employer to UO (Reject),Chrome 70.0.3538.110,,2018-11-28 17:16:33,2018-11-28 17:28:03,11m - 30.125s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:16:33,2018-11-28 17:26:19,9m - 46.234s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:26:19,2018-11-28 17:28:03,1m - 43.612s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/Employer to UO (Under enforcement),Chrome 70.0.3538.110,,2018-11-28 17:28:03,2018-11-28 17:30:47,2m - 44.358s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:28:04,2018-11-28 17:29:05,1m - 1.133s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:29:05,2018-11-28 17:30:47,1m - 41.954s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Approve),Chrome 70.0.3538.110,,2018-11-28 17:30:47,2018-11-28 17:33:32,2m - 44.984s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:30:48,2018-11-28 17:31:49,1m - 0.944s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:31:49,2018-11-28 17:33:32,1m - 43.764s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Query),Chrome 70.0.3538.110,,2018-11-28 17:33:32,2018-11-28 17:42:46,9m - 14.155s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:33:33,2018-11-28 17:34:34,1m - 0.502s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:34:34,2018-11-28 17:42:46,8m - 12.462s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Reject),Chrome 70.0.3538.110,,2018-11-28 17:42:46,2018-11-28 17:45:30,2m - 43.708s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:42:47,2018-11-28 17:43:48,1m - 1.206s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:43:48,2018-11-28 17:45:30,1m - 42.248s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/OTC to UO (Under enforcement),Chrome 70.0.3538.110,,2018-11-28 17:45:30,2018-11-28 17:48:14,2m - 43.927s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:45:31,2018-11-28 17:46:32,1m - 0.424s,PASSED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:46:32,2018-11-28 17:48:14,1m - 42.435s,PASSED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/PKRBO to UO (Approve),Chrome 70.0.3538.110,,2018-11-28 17:48:14,2018-11-28 17:49:47,1m - 32.710s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:48:14,2018-11-28 17:49:47,1m - 32.429s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/PKRBO to UO (Query),Chrome 70.0.3538.110,,2018-11-28 17:49:47,2018-11-28 17:51:20,1m - 32.705s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:49:47,2018-11-28 17:51:19,1m - 31.765s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/PKRBO to UO (Reject),Chrome 70.0.3538.110,,2018-11-28 17:51:20,2018-11-28 17:52:53,1m - 33.049s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:51:20,2018-11-28 17:52:53,1m - 32.781s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 3 EIS - Cessation As Employer/PKRBO to UO (Under enforcement),Chrome 70.0.3538.110,,2018-11-28 17:52:53,2018-11-28 17:54:25,1m - 32.786s,FAILED
+callTestCase,Chrome 70.0.3538.110,,2018-11-28 17:52:53,2018-11-28 17:54:25,1m - 32.555s,FAILED

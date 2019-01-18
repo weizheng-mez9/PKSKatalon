@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Request SSN RIO - RO (Approve and Using Current Employer Code)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bd7ca26-a881-4df4-a584-560ce41de7da</testCaseGuid>
+</TestCaseEntity>

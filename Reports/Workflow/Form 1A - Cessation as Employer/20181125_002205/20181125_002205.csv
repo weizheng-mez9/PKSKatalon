@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Form 1A - Cessation as Employer,Chrome 70.0.3538.102,This test suite consisted all automated workflow,2018-11-25 03:20:25,2018-11-25 04:12:20,51m - 54.964s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Approve),Chrome 70.0.3538.102,,2018-11-25 03:20:26,2018-11-25 03:25:17,4m - 51.702s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:20:26,2018-11-25 03:25:17,4m - 51.327s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Query),Chrome 70.0.3538.102,,2018-11-25 03:25:17,2018-11-25 03:28:29,3m - 11.851s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:25:17,2018-11-25 03:28:29,3m - 11.595s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Reject),Chrome 70.0.3538.102,,2018-11-25 03:28:29,2018-11-25 03:33:16,4m - 46.940s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:28:29,2018-11-25 03:33:16,4m - 46.628s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/Employer to UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-25 03:33:16,2018-11-25 03:37:32,4m - 15.762s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:33:16,2018-11-25 03:34:35,1m - 18.251s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:34:35,2018-11-25 03:37:32,2m - 57.233s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Approve),Chrome 70.0.3538.102,,2018-11-25 03:37:32,2018-11-25 03:41:45,4m - 13.456s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:37:32,2018-11-25 03:38:49,1m - 17.369s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:38:49,2018-11-25 03:41:45,2m - 55.816s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Query),Chrome 70.0.3538.102,,2018-11-25 03:41:45,2018-11-25 03:45:58,4m - 12.826s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:41:46,2018-11-25 03:43:02,1m - 16.558s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:43:02,2018-11-25 03:45:58,2m - 55.970s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Reject),Chrome 70.0.3538.102,,2018-11-25 03:45:58,2018-11-25 03:51:29,5m - 30.939s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:45:58,2018-11-25 03:47:16,1m - 17.130s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:47:16,2018-11-25 03:51:29,4m - 13.505s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/OTC to UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-25 03:51:29,2018-11-25 03:55:42,4m - 12.924s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:51:29,2018-11-25 03:52:46,1m - 17.074s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:52:46,2018-11-25 03:55:42,2m - 55.603s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Approve),Chrome 70.0.3538.102,,2018-11-25 03:55:42,2018-11-25 03:59:50,4m - 8.349s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:55:42,2018-11-25 03:56:55,1m - 12.729s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:56:55,2018-11-25 03:59:50,2m - 55.351s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Query),Chrome 70.0.3538.102,,2018-11-25 03:59:50,2018-11-25 04:03:59,4m - 8.949s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 03:59:51,2018-11-25 04:01:03,1m - 11.924s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 04:01:03,2018-11-25 04:03:59,2m - 56.734s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Reject),Chrome 70.0.3538.102,,2018-11-25 04:03:59,2018-11-25 04:08:09,4m - 9.775s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 04:04:00,2018-11-25 04:05:13,1m - 13.157s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 04:05:13,2018-11-25 04:08:09,2m - 56.317s,FAILED
+,,,,,,
+Test Cases/Final Aug 2018 - PKS Automation/Registration Module/Workflow/Form 1A - Cessation As Employer/PKRBO to UO (Under enforcement),Chrome 70.0.3538.102,,2018-11-25 04:08:09,2018-11-25 04:12:19,4m - 10.429s,FAILED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 04:08:09,2018-11-25 04:09:23,1m - 13.675s,PASSED
+callTestCase,Chrome 70.0.3538.102,,2018-11-25 04:09:23,2018-11-25 04:12:19,2m - 56.452s,FAILED

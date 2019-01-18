@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Special Case (PKR BO - RO Query - OTC Upload Pending Case - RO Approve)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76af2a36-a1d8-4145-bc58-3d8e894bdb15</testCaseGuid>
+</TestCaseEntity>
